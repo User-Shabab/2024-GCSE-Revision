@@ -1,0 +1,4 @@
+Malaria:
+Symptoms: Repeated episodes of fever. Fatal.
+Spread: Mosquitoes when they feed on humans.
+Prevention: Insecticides & mosquito nets.
