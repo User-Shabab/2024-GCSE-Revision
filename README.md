@@ -1,5 +1,5 @@
-# Science-GCSE
-Coding to study notes for revision.
+# Science Notes for GCSE
+Coding study notes for more efficient revision.
 
 ## Description
 
