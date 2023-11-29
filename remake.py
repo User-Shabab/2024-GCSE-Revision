@@ -1,7 +1,3 @@
-subject = input("Subject? (...)_")
-topic = input("Topic? (...)_")
-subtopic = input("Subtopic? (...)_")
-
 def fdiseases(s):
     if s == "virus":
         with open("virus.txt", 'r') as f:
@@ -27,8 +23,16 @@ def fbiology(t):
     else:
         return "Subtopic not found."
 
-if subject.lower() in ['b', 'bio', 'biology']:
-    ans = fbiology(topic)
-    print(ans)
-else:
-    print("Invalid subject.")
+while True:
+
+    
+    subject = input("Subject? (...)_")
+    topic = input("Topic? (...)_")
+    subtopic = input("Subtopic? (...)_")
+
+    if subject.lower() in ['b', 'bio', 'biology']:
+        ans = fbiology(topic)
+        print(ans)
+    else:
+        print("Invalid subject.")
+
