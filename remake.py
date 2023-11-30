@@ -34,5 +34,4 @@ while True:
         ans = fbiology(topic)
         print(ans)
     else:
-        print("Invalid subject.")
-
+        print("Invalid subject./n")
