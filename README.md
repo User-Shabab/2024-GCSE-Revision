@@ -7,6 +7,10 @@ Notes made on this code. Once a topic asked for, it will provide the material ne
 - Biology
 - Chemistry
 - Physics
+Once those done, then will hopefully add in:
+- English
+- Computer Science
+- Mathematics
 
 Most of us students always work on the laptop or computer, so if a program can be made, there won't be a pile of papers in the abyss of a backpack.
 
