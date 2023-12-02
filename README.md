@@ -7,7 +7,9 @@ Notes made on this code. Once a topic asked for, it will provide the material ne
 - Biology
 - Chemistry
 - Physics
+
 Once those done, then will hopefully add in:
+
 - English
 - Computer Science
 - Mathematics
