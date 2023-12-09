@@ -26,12 +26,13 @@ def fbiology(t):
 while True:
 
     
-    subject = input("Subject? (...)_")
-    topic = input("Topic? (...)_")
-    subtopic = input("Subtopic? (...)_")
+    subject = input("Subject? (biology)_")
+    topic = input("Topic? (diseases)_")
+    subtopic = input("Subtopic? (virus, bacteria, protist, fungi)_")
 
     if subject.lower() in ['b', 'bio', 'biology']:
         ans = fbiology(topic)
         print(ans)
     else:
-        print("Invalid subject./n")
+        print("Invalid subject.")
+
