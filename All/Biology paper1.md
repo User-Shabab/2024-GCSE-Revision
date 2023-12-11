@@ -354,10 +354,6 @@ SEPARATE RED LAYER FORMS IF LIPIDS THERE
 
 # Topic 3 - Infection and Response
 
-## Developing Drugs
-
-
-
 ## Diseases
 
 ### Viruses
@@ -415,4 +411,113 @@ Prevention: Insecticides & mosquito nets.
 Symptoms: Purple/Black spots develop on rose plants' leaves. Then turn yellow and drop.
 Spread: Water & Airborn. Also by contact.
 Prevention: Fungicides. Stripping leaf from plant & destroy.
+```
+
+## Developing Drugs
+
+### Pre-clinical testing part 1
+
+Drug tested on human cells and tissues in lab
+
+### Pre-clinical testing part 2
+
+Drug tested on live animals
+
+Test for : efficacy, toxicity, dosage
+
+### Clinical testing
+
+Tested on healthy human volunteers
+
+Test for any side effects
+
+Low dosage initially
+
+Then on patients if successful
+
+Use placebo, and double-blind trial it hence no bias
+
+Peer-reviewed so no false claims
+
+
+## Plant diseases and defences
+
+### Common signs of disease
+```
+Stunted growth
+Spots on leaves
+Patches of decay (rot)
+Abnormal growths
+Malformed stems//leaves
+Discoloration
+```
+
+### Identify disease
+```
+Gardening manual
+Gardening website
+Take to a lab
+Use testing kit with monoclonal antibodies
+```
+
+### Physical defences
+```
+Waxy cuticle as barrier
+Cell walls of cellulose
+Layers of dead cells around stem (bark)
+```
+
+### Chemical defences
+```
+Produce antibacterial chemicals
+Produce poisons
+```
+
+### Mechanical defences
+```
+Thorns and hairs
+Droop or curl when touched
+Mimic other plants
+```
+
+# Topic 4 - Bioenergetics
+
+## Photosynthesis
+
+### Use of glucose in plants
+
+- [ ] Respiration
+- [ ] Making cellulose
+- [ ] Making amino acids
+- [ ] Stored as oils//fats (to lipids for storing in seeds)
+- [ ] Stored as starch (stored for later)
+
+### Limiting Factors on rate of photosynthesis
+- [ ] Light
+- [ ] Number of chlorophyll
+- [ ] Carbon dioxide concentration
+- [ ] Temperature
+
+## Respirations
+
+### Aerobic
+
+With oxygen. Equation below is used by both plants and animals.
+
+```
+Glucose + Oxygen → Carbon Dioxide + Water
+```
+
+### Anaerobic
+
+Without oxygen. Provides less energy.
+
+Humans:
+```
+Glucose → Lactic acid
+```
+
+Plants and Yeast (fermentation):
+```
+Glucose → Ethanol + Carbon Dioxide
 ```
