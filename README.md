@@ -1,4 +1,4 @@
-# Science Notes for GCSE
+# Notes for GCSE
 Coding study notes for more efficient revision.
 
 ## Description
