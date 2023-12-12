@@ -3,6 +3,11 @@
 
 ## Hydrocarbons
 
+Longer chains of hydrocarbons have:
+- [ ] Higher Viscosity
+- [ ] Lower Flammability
+- [ ] Higher boiling points
+
 Meth_ == 1 Carbons
 
 Eth_ == 2 Carbons
@@ -32,7 +37,21 @@ Unsaturated since double bond restricts hydrogen numbers
 
 Can do incomplete combustion (add on carbon monoxide on products side)
 
+### Fractional Distillation
+```
+Evaporation
+Condensation
+Collection
+```
 
+### Cracking
+```
+Steam cracking {
+  Heat to very high temperature}
+Catalytic cracking {
+  Heat
+  Pass over powdered aluminum oxide catalyst}
+```
 
 ## Alocohols
 
