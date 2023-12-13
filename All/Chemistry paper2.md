@@ -64,7 +64,7 @@ Collection
 ### Cracking
 ```
 Steam cracking {
-  Heat to very high temperature} 800°C
+  Heat to very high temperature} 800°C}
 Catalytic cracking {
   Heat 550°C
   Pass over powdered aluminum oxide catalyst}
@@ -126,6 +126,8 @@ Hydrocarbon + Oxygen → Water + Carbon Dioxide
 Alkene + Oxygen → Carbon + Carbon Monoxide + Carbon Dioxide + Water
 Alkenes + Steam → Alcohols (Hydration)
 Alkenes + Hydrogen → Alkane (Hydrogenation)
+Acid + Metal Carbonate → Metal Salt + Carbon Dioxide + Water
+Alcohol + Carboxylic Acid → Ester + Water + Carbon Dioxide
 
 ```
 
