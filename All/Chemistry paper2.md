@@ -18,16 +18,20 @@ But_ == 4 Carbons
 
 Pent_ == 5 Carbons
 
+Complete combustion
+```
+Hydrocarbon + Oxygen → Water + Carbon Dioxide
+```
+
+Can do incomplete combustion (add on carbon monoxide on products side)
+
 ### Alkanes
 
 General formula: C<sub>n</sub>H<sub>2n+2</sub>
 
 Saturated since all hydrogens bond with carbons
 
-Complete combustion
-```
-Hydrocarbon + Oxygen → Water + Carbon Dioxide
-```
+NO CHANGE TO BROMINE WATER
 
 ### Alkenes
 
@@ -35,7 +39,20 @@ General formula: C<sub>n</sub>H<sub>2n</sub>
 
 Unsaturated since double bond restricts hydrogen numbers
 
-Can do incomplete combustion (add on carbon monoxide on products side)
+TURN BROMINE WATER COLORLESS
+
+CAN BE COMBINED TO MAKE POLYMERS
+
+REACTIONS
+```
+(With phosphoric catalyst)
+Alkene + Steam → Alcohol (HYDRATION)
+
+WILL GIVE SMOKY FLAME IN INCOMPLETE COMBUSTION
+
+(With nickel catalyst)
+Alkene + Hydrogen → Alkane (HYDROGENATION)
+```
 
 ### Fractional Distillation
 ```
@@ -47,15 +64,56 @@ Collection
 ### Cracking
 ```
 Steam cracking {
-  Heat to very high temperature}
+  Heat to very high temperature} 800°C
 Catalytic cracking {
-  Heat
+  Heat 550°C
   Pass over powdered aluminum oxide catalyst}
 ```
 
 ## Alocohols
 
+General formula: C<sub>n</sub>H<sub>2n+1</sub>OH
+
+Add on a CH<sub>2</sub> as it increases
+
+### Reactions
+
+Alcohols reacting with oxidising agent produce a carboxylic acid
+
+Alcohols with sodium produce hydrogen
+
+Alcohols with water produce neutral solutions
+
+Alcohols with air and heat produce carbon dioxide and water
+
+### Fermentation
+Conditions:
+```
+A temperature of 37°C
+A solution that is slightly acidic
+In the absence of oxygen (anaerobic)
+```
+
 ## Carboxylic Acids
+
+PARTIALLY IONISE IN WATER SINCE A WEAK ACID
+
+General formula: C<sub>n</sub>H<sub>2n+1</sub>COOH.
+
+Add on a CH<sub>2</sub> as it increases
+
+### Reactions
+```
+(With nickel catalyst)
+Ethanoic acid + ethanol → ethyl ethanoate + water
+
+REACTING WITH WATER PRODUCES:
+A salt
+Carbon dioxide
+Water
+
+When carboxylic acids react with water, they dissolve to give solutions with an acidic pH.
+```
 
 ## Esters
 
