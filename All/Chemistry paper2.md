@@ -23,7 +23,7 @@ Complete combustion
 Hydrocarbon + Oxygen → Water + Carbon Dioxide
 ```
 
-Can do incomplete combustion (add on carbon monoxide on products side)
+Can do incomplete combustion (add on carbon and carbon monoxide on products side)
 
 ### Alkanes
 
@@ -89,9 +89,14 @@ Alcohols with air and heat produce carbon dioxide and water
 ### Fermentation
 Conditions:
 ```
-A temperature of 37°C
+A temperature of 25-35°C
 A solution that is slightly acidic
 In the absence of oxygen (anaerobic)
+```
+
+### Uses
+```
+
 ```
 
 ## Carboxylic Acids
@@ -115,7 +120,14 @@ Water
 When carboxylic acids react with water, they dissolve to give solutions with an acidic pH.
 ```
 
-## Esters
+## All Reactions
+```
+Hydrocarbon + Oxygen → Water + Carbon Dioxide
+Alkene + Oxygen → Carbon + Carbon Monoxide + Carbon Dioxide + Water
+Alkenes + Steam → Alcohols (Hydration)
+Alkenes + Hydrogen → Alkane (Hydrogenation)
+
+```
 
 # Topic 8 - Chemical Analysis
 # Topic 9 - Chemistry of the Atmosphere
