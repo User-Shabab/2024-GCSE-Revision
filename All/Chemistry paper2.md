@@ -96,7 +96,10 @@ In the absence of oxygen (anaerobic)
 
 ### Uses
 ```
-
+Methanol: Chemical feedstock, Industrial ethanol
+Ethanol: Alcohol, Fuel to burn, Solvent
+Propanol: Fuel to burn, Solvent
+Butanol: Fuel to burn, Solvent
 ```
 
 ## Carboxylic Acids
@@ -124,11 +127,11 @@ When carboxylic acids react with water, they dissolve to give solutions with an 
 ```
 Hydrocarbon + Oxygen → Water + Carbon Dioxide
 Alkene + Oxygen → Carbon + Carbon Monoxide + Carbon Dioxide + Water
-Alkenes + Steam → Alcohols (Hydration)
+Alkenes + Steam ⇌ Alcohols (Hydration)
 Alkenes + Hydrogen → Alkane (Hydrogenation)
 Acid + Metal Carbonate → Metal Salt + Carbon Dioxide + Water
-Alcohol + Carboxylic Acid → Ester + Water + Carbon Dioxide
-
+Alcohol + Carboxylic Acid ⇌ Ester + Water + Carbon Dioxide
+Glucose → Ethanol + Carbon Dioxide (Fermentation)
 ```
 
 # Topic 8 - Chemical Analysis
