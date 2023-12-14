@@ -17,3 +17,15 @@ Once those done, then will hopefully add in:
 Most of us students always work on the laptop or computer, so if a program can be made, there won't be a pile of papers in the abyss of a backpack.
 
 First a text version. Soon a GUI.
+
+## Exam Boards
+
+- [ ] Mathematics - Edexcel
+- [ ] English Language - AQA
+- [ ] English Language - AQA
+- [ ] Physics - AQA
+- [ ] Biology - AQA
+- [ ] Chemistry - AQA
+- [ ] Geography - Edexcel B
+- [ ] Computer Science - OCR
+- [ ] German - AQA
