@@ -45,12 +45,12 @@ CAN BE COMBINED TO MAKE POLYMERS
 
 REACTIONS
 ```
-(With phosphoric catalyst)
+(With phosphoric catalyst, 300°C)
 Alkene + Steam → Alcohol (HYDRATION)
 
 WILL GIVE SMOKY FLAME IN INCOMPLETE COMBUSTION
 
-(With nickel catalyst)
+(With nickel catalyst, 60°C)
 Alkene + Hydrogen → Alkane (HYDROGENATION)
 ```
 
