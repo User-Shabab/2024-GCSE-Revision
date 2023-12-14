@@ -54,14 +54,14 @@ WILL GIVE SMOKY FLAME IN INCOMPLETE COMBUSTION
 Alkene + Hydrogen → Alkane (HYDROGENATION)
 ```
 
-### Fractional Distillation
+### Fractional Distillation (Crude Oils)
 ```
 Evaporation
 Condensation
 Collection
 ```
 
-### Cracking
+### Cracking (Crude Oils)
 ```
 Steam cracking {
   Heat to very high temperature} 800°C}
@@ -112,7 +112,7 @@ Add on a CH<sub>2</sub> as it increases
 
 ### Reactions
 ```
-(With nickel catalyst)
+(With sulfuric catalyst)
 Ethanoic acid + ethanol → ethyl ethanoate + water
 
 REACTING WITH WATER PRODUCES:
