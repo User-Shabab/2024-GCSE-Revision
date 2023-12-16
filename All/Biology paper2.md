@@ -49,6 +49,13 @@ Receptor: Detects change in environment
 
 # Topic 6 - Inheritence, Variation, and Evolution
 
+Importance of 
+```
+• search for genes linked to different types of disease
+• understanding and treatment of inherited disorders
+• use in tracing human migration patterns from the past.
+```
+
 Reproduction
 ```
 Advantages of sexual reproduction:
