@@ -49,4 +49,20 @@ Receptor: Detects change in environment
 
 # Topic 6 - Inheritence, Variation, and Evolution
 
+Reproduction
+```
+Advantages of sexual reproduction:
+• produces variation in the offspring
+• if the environment changes variation gives a survival advantage by natural
+selection
+• natural selection can be speeded up by humans in selective breeding to
+increase food production.
+
+Advantages of asexual reproduction:
+• only one parent needed
+• more time and energy efficient as do not need to find a mate
+• faster than sexual reproduction
+• many identical offspring can be produced when conditions are favourable.
+```
+
 # Topic 7 - Ecology
