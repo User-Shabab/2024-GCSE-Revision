@@ -49,14 +49,9 @@ Receptor: Detects change in environment
 
 # Topic 6 - Inheritence, Variation, and Evolution
 
-Importance of 
-```
-• search for genes linked to different types of disease
-• understanding and treatment of inherited disorders
-• use in tracing human migration patterns from the past.
-```
+## Reproduction
 
-Reproduction
+### Advantages of Reproduction
 ```
 Advantages of sexual reproduction:
 • produces variation in the offspring
@@ -70,6 +65,56 @@ Advantages of asexual reproduction:
 • more time and energy efficient as do not need to find a mate
 • faster than sexual reproduction
 • many identical offspring can be produced when conditions are favourable.
+```
+
+### Organisms
+```
+• Malarial parasites reproduce asexually in the human host, but sexually in
+the mosquito.
+• Many fungi reproduce asexually by spores but also reproduce sexually to
+give variation.
+• Many plants produce seeds sexually, but also reproduce asexually by
+runners such as strawberry plants, or bulb division such as daffodils
+```
+
+## DNA and Genome
+
+### Importance of studying human genome
+```
+• search for genes linked to different types of disease
+• understanding and treatment of inherited disorders
+• use in tracing human migration patterns from the past.
+```
+
+### DNA Structure
+```
+DNA is a polymer made from four different nucleotides. Each nucleotide consists of a common sugar and
+phosphate group with one of four different bases attached to the sugar.
+
+DNA contains four bases, A, C, G and T.
+
+A sequence of three bases is the code for a particular amino acid. The
+order of bases controls the order in which amino acids are assembled to
+produce a particular protein.
+
+The long strands of DNA consist of alternating sugar and phosphate
+sections. Attached to each sugar is one of the four bases.
+
+The DNA polymer is made up of repeating nucleotide units.
+```
+
+### Protein Synthesis
+```
+Proteins are synthesised on ribosomes, according to a template.
+Carrier molecules bring specific amino acids to add to the growing protein chain in the correct order.
+When the protein chain is complete it folds up to form a unique shape.
+This unique shape enables the proteins to do their job as enzymes, hormones or forming structures in the body such as collagen.
+```
+
+### Inherited diseases
+```
+Polydactyly (having extra fingers or toes) is caused by a dominant allele
+Cystic fibrosis (a disorder of cell membranes) is caused by a recessive allele
 ```
 
 # Topic 7 - Ecology
