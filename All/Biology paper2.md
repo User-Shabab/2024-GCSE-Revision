@@ -192,7 +192,7 @@ then passed on to the next generation.
 
 ### Only gradually accepted because
 ```
- the theory challenged the idea that God made all the animals and
+• the theory challenged the idea that God made all the animals and
 plants that live on Earth
 • there was insufficient evidence at the time the theory was published
 to convince many scientists
