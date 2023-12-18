@@ -284,7 +284,9 @@ Due to evidence available from chemical analysis there is now a 3 domain system 
 In this system organisms are divided into:
 
 • archaea (primitive bacteria usually living in extreme environments)
+
 • bacteria (true bacteria)
+
 • eukaryota (which includes protists, fungi, plants and animals).
 
 ```
