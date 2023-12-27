@@ -26,8 +26,39 @@ Descriptive is easiest to get marks on. Narrative is usually more confidently wr
 
 # English Language Paper 2
 
+Apparently harder than paper 1 :(
+
 ## Q1
+
+Check what's true and what's obvious.
+
 ## Q2
+
+ONLY inferences and clear comparisons of the 2 whole texts. No analysis.
+
 ## Q3
+
+ONLY language analysis of a portion.
+
 ## Q4
+
+Mix up Q2 and Q3 and voila.
+
 ## Q5
+
+Know your topic, audience, purpose **(TAP)**
+
+Speech
+```
+
+```
+
+Letter
+```
+
+```
+
+Article
+```
+
+```
