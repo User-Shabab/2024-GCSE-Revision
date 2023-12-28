@@ -8,14 +8,15 @@
 
 
 
+
 # Paper 2
 
-## Section A:
+## Section A: An Inspector Calls (JB Priestley)
 
 
 
-## Section B:
+## Section B: Power and conflict poetry
 
 
 
-## Section C:
+## Section C: Unseen poetry
