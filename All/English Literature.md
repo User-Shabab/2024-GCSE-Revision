@@ -5,6 +5,9 @@
 ### Characters
 
 #### Macbeth
+```
+
+```
 
 ### Themes
 
