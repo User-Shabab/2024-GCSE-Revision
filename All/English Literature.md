@@ -4,6 +4,8 @@
 
 ### Characters
 
+#### Macbeth
+
 ### Themes
 
 ## Section B: A Christmas Carol (Charles Dickens)
