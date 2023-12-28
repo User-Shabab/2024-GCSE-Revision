@@ -10,4 +10,12 @@
 
 # Paper 2
 
-## 
+## Section A:
+
+
+
+## Section B:
+
+
+
+## Section C:
