@@ -21,6 +21,15 @@ Effectors: Glands and Muscles that carry out an action
 Receptor: Detects change in environment
 ```
 
+Regulating internal conditions
+```
+Carbon dioxide levels
+Urea concentration (in urine)
+Internal body temperature
+Blood sugar levels
+Water levels
+```
+
 ## The Brain
 
 
