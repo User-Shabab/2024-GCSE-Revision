@@ -39,9 +39,69 @@ This process is called negative feedback and needs all of the components of the 
 
 ## The Brain
 
+### 3 Main parts
+
+#### Cerebral cortex
+```
+This part is responsible for conscious thought (e.g. memory, language and intelligence).
+```
+
+#### Cerebellum
+```
+This part is responsible for the muscle coordination.
+The cerebellum is important for movement, posture, balance and speech.
+```
+
+#### Medulla
+```
+This part is responsible for unconscious activities (e.g. breathing and heartbeat).
+```
+
 
 
 ## The Eye
+
+### Parts of the eye
+
+#### Retina
+```
+Packed with receptor cells, which are sensitive to both the brightness (light intensity) and the colour of light
+```
+
+#### Iris
+```
+Controls pupil diameter and the quantity of light reaching the retina
+```
+
+#### Pupil
+```
+A hole in the centre of the iris, through which light passes
+```
+
+#### Suspensory ligaments
+```
+A ring of fibres that connect ciliary muscles to the lens
+```
+
+#### Ciliary muscles
+```
+A ring of smooth muscle that changes the shape of the lens to focus light
+```
+
+#### Optic nerve
+```
+Transmits visual information, in the form of electrical impulses, from the retina to the brain
+```
+
+#### Sclera
+```
+The white of the eye; the opaque protective outer layer
+```
+
+#### Cornea
+```
+The transparent frontal portion of the eye responsible for refracting light
+```
 
 ## Controlling Body Temperature
 
