@@ -30,6 +30,13 @@ Blood sugar levels
 Water levels
 ```
 
+Negative feedback
+```
+When our internal conditions are optimal, the body does not need to respond.
+If an internal condition changes and is no longer optimal, this stimulus is detected and the body works to counteract (reverse) the change and return conditions to the optimum.
+This process is called negative feedback and needs all of the components of the nervous system to work together.
+```
+
 ## The Brain
 
 
