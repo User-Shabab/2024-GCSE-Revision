@@ -1,5 +1,23 @@
 # Topic 5 - Homeostasis and Response
 
+## Nervous vs Endocrine System
+
+### Central nervous system (CNS)
+```
+Triggers rapid response.
+Uses electrical signals that are carried by neurones.
+Response is very short.
+Acts on a very precise part of the body.
+```
+
+### Endocrine (hormonal) system
+```
+Triggers a slower response.
+Uses chemical messengers that are carried by blood.
+Response can be long-lasting.
+Can act on large areas of the body.
+```
+
 ## The Nervous System
 
 ### Reflex Arc
@@ -105,7 +123,93 @@ The transparent frontal portion of the eye responsible for refracting light
 
 ## Controlling Body Temperature
 
+### Thermoregulation
+
+#### Too cold
+```
+Muscle contractions increase, causing shivering.
+Hairs stand on end.
+Blood vessels constrict to reduce blood flow in capillaries (vasoconstriction). {
+  If we are too cold, then the muscular walls contract.
+  This is called vasoconstriction.
+  This reduces the blood flow to the skin surface and heat energy is kept inside the body. }
+```
+
+#### Too hot
+```
+Sweat is released from sweat glands under the skin.
+Hairs lie flat.
+Blood vessels dilate to allow more blood to enter capillaries that pass close to the skin surface (vasodilation). {
+  If we are too hot, then the muscular walls relax.
+  This is called vasodilation.
+  This allows more blood to enter and flow through capillaries close to the skin surface. The excess heat energy is transferred to the surroundings. }
+```
+
+### Sweating and Shivering
+
+#### Sweating
+```
+Sweat glands release water, which covers the skin.
+Heat energy from the body is transferred to this water and, when it has enough energy, it evaporates.
+As it evaporates, it takes the heat energy with it. This lowers the average temperature of the body.
+```
+
+#### Shivering
+```
+When we are too cold, muscles start to contract automatically. This makes us shiver.
+This process requires energy, which is generated through respiration.
+Respiration produces heat, which warms us up.
+```
+
+### Body Hairs
+
+#### Too cold
+```
+When we are too cold, the hair erector muscle contracts, causing the hair to stand on end (which pull on the skin giving you goosebumps).
+When all the hairs are standing on end, they trap an insulating layer of air around the body.
+```
+
+#### Too hot
+```
+When we are too hot, the hair erector muscle relaxes, causing the hair to lie flat.
+```
+
 ## The Endocrine System
+
+### Testes (male only)
+```
+The testes produce testosterone, which controls puberty and sperm production.
+```
+
+### Adrenal glands
+```
+The two adrenal glands are situated above each kidney.
+They produce adrenaline, which triggers the ‘fight or flight’ response when an organism is presented with a dangerous situation.
+```
+
+### Thyroid gland
+```
+This gland is in our neck and releases thyroxine.
+Thyroxine regulates our metabolism, heart rate and temperature.
+```
+
+### Pancreas
+```
+The pancreas produces insulin and glucagon, both of which are involved in regulating blood glucose levels.
+```
+
+### Pituitary gland
+```
+This is the main endocrine gland or "master gland".
+It is found in the brain and is linked to the hypothalamus (part of the brain that receives signals from receptors).
+The pituitary gland releases hormones in response to changes detected by the hypothalamus.
+Lots of these hormones trigger other glands to release more hormones.
+```
+
+### Ovaries (female only)
+```
+The ovaries produce oestrogen, which controls puberty and is one of the main hormones in the regulation of the menstrual cycle.
+```
 
 ## Controlling Blood Glucose
 
