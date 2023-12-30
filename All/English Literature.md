@@ -10,6 +10,21 @@
 ```
 
 ### Themes
+```
+
+```
+
+#### The Supernatural
+```
+
+```
+
+#### Ambition
+```
+
+```
+
+#### Loyalty and Betrayal
 
 ## Section B: A Christmas Carol (Charles Dickens)
 
