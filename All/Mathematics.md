@@ -13,6 +13,10 @@ Solved in 2 ways.
 
 ```
 
+# Surds
+
+Has (this many) rules/laws.
+
 # Quadratics
 
 Quadratic equations can be solved in 3 ways.
