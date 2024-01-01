@@ -172,6 +172,15 @@ CONTEXT
 
 ## Section B: A Christmas Carol (Charles Dickens)
 
+### Thesis statement
+```
+In ACC, Dickens writes ACC in order to give his readers the need for a sense of social responsibility
+towards the poor and the disadvantaged.
+He wants to attack the Malthusian political view which treated the poor as lazy and deserving of their
+poverty.
+He intends to change the attitude of his readers towards the pay they give to their employees.
+```
+
 ### Characters
 
 ### Themes
@@ -179,6 +188,16 @@ CONTEXT
 # Paper 2
 
 ## Section A: An Inspector Calls (JB Priestley)
+
+### Thesis statement
+```
+In AIC, Priestly wants to chane the attitude of the audience towards social responsibility; he wants
+the upper classes to take responsibility for the workers and the poor and hence produce a fairer society.
+He also focusses on female victims like Eva and Sheila to show that capitalism is also sexist and this
+patriarchal society needs to change to respect to respect women.
+The attack on capitalism also equates the motive with the desire to treat men as goods in order to earn
+profit in war.
+```
 
 ### Characters
 
