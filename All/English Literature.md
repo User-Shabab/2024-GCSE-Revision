@@ -1,6 +1,33 @@
 # Paper 1
 
-## Section A: Mcbeth (William Shakespeare)
+## Section A: Macbeth (William Shakespeare)
+
+### Summary
+```
+Act 1 {
+  Mcbeth first meets witches after the war
+  Prophecies made & one already fulfilled
+  L.Macbeth turns to the dark side
+  Duncan planned to be killed}
+
+Act 2 & 3{
+  Duncan dies
+  Everyone finds out & the sons escape
+  Unnatural stuff goes down & Macbeth's crowned
+  Fleance escapes from Banquo's assassination
+  Ghost at feast}
+
+Act 4 {
+  Apparitions warn Macbeth
+  Macbeth kills Macduff's family
+  Macduff proves loyalty to Malcolm and England}
+
+Act 5 {
+  L.Macbeth is mad & dies soon
+  Macbeth is scared since Birnham wood moves
+  The 2 Mc's duel and Macduff was C-sectioned
+  Macbeth is killed and Malcolm be king}
+```
 
 ### Characters
 
