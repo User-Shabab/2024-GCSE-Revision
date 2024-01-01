@@ -33,7 +33,7 @@ Act 5 {
 
 #### Macbeth
 ```
--Tragic Hero; inexorable descent from a revered and quintessential scottish soldier to a condemned and tyrannical leader
+-Tragic Hero; descent from a revered and quintessential scottish soldier to a condemned and tyrannical leader
 -Consequence of his hamartia: unchecked ambition making him innately flawed.
 -Susceptible to the manipulation of his wife to protect his fragile masculinity
 -His kingship and superficially strong will to commit regicide is testament to his idealised masculinity.
@@ -60,8 +60,6 @@ CONTEXT
 James I was a King who faced heavy resentment from the Catholic population of England-1603 Gunpowder plot
 Anti-monarchical views incentivised him to alter the view of his kingship and thus became a patron of Shakespeare's Theatre group
 Audience feared they'd face unfortunate fate of Macbeth if they turn to corrupt temptation & perform malpractices to overthrow King
-Exaggerated view of his importance
-Macbeth becomes a vessel for the witch's supernatural malpractices - witches were to compulsive bloodshed.
 Referred to as tyrant - his epithet
 Catholics were often accused of Witchcraft and thus further provided stability to his Protestant kingship
 This conception of witches was inextricably linked with james' ideology of witchcraft that resided in his famous book 'Demonologie'
