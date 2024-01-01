@@ -18,12 +18,11 @@
 
 KEY QUOTES
 
-Tomorrow and tomorrow and tomorrow
 Will all great Neptune's ocean wash this blood clean from my hand.
 Stars hide your fires, let not light see my black and deep desires.
 For Brave Macbeth... disdaining fortune with his brandished shield which smoked with bloody execution.
 Whose horrid image doth unfix my hair...Make my seated heart knock at my ribs.
-Roman fool.
+Roman fool
 This tyrant whose sole name blisters our tongue.
 I grant him bloody, Luxurious, avaricious, false, deceitful, Sudden, malicious, smacking of every sin That has a name
 hell-hound
