@@ -1,6 +1,6 @@
 # Simultaneous Equations
 
-Achieved in 2 ways.
+Solved in 2 ways.
 
 ## Method 1) Elimination
 ```
