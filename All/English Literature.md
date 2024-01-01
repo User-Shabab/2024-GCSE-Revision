@@ -2,31 +2,25 @@
 
 ## Section A: Macbeth (William Shakespeare)
 
-### Summary
+### Beginning Analysis
+
+**"Unseamed him from the nave to the chops and fixed his head upon our battlements"**
+
 ```
-Act 1 {
-  Mcbeth first meets witches after the war
-  Prophecies made & one already fulfilled
-  L.Macbeth turns to the dark side
-  Duncan planned to be killed}
+Violence - He's an expert at it (brutal)
+Lady Macbeth - How she wants to like a 'valiant warrior' so 'unsex'es herself
+Supernatural - Witches pick him (!Banquo) coz he's bloodthirsty
+```
 
-Act 2 & 3{
-  Duncan dies
-  Everyone finds out & the sons escape
-  Unnatural stuff goes down & Macbeth's crowned
-  Fleance escapes from Banquo's assassination
-  Ghost at feast}
+### Ending Analysis
 
-Act 4 {
-  Apparitions warn Macbeth
-  Macbeth kills Macduff's family
-  Macduff proves loyalty to Malcolm and England}
+**dead butcher** and **fiend-like queen**
 
-Act 5 {
-  L.Macbeth is mad & dies soon
-  Macbeth is scared since Birnham wood moves
-  The 2 Mc's duel and Macduff was C-sectioned
-  Macbeth is killed and Malcolm be king}
+```
+Masculinity - How becoming masculine turned L.Mac into a fiend
+Supernatural - Chosen him since he's like one (and king to butcher) - good riddance from society
+Supernatural - She is witch-like, made subhuman through interference/traficking with supernatural
+L.Macbeth - Perhaps he responsible for her death since he's a butcher (no concern for who he kills)
 ```
 
 ### Characters
