@@ -87,12 +87,21 @@ She wants to feed Macbeth's aspirations as a traditional, devoted wife, Alternat
 
 #### Duncan
 ```
--
+- Kind and VERY trusting
+- Gentle and less manly; leads the audience to question whether good leader needs to be violent
+- Puts Scotland's need in front of own; Contrasting with Macbeth
+- Not afraid to be emotional
 
 KEY QUOTES
-
+valiant cousin, worthy gentleman
+Methought I heard a voice cry 'Sleep no more! Macbeth does murder sleep.
+He was a gentleman on whom I built an absolute trust
+Honor, like stars, shall shine on all deservers
+What he hath lost, noble Macbeth hath won
 
 CONTEXT
+Model king - fair, honest, kind
+Divine right of kings
 
 ```
 
