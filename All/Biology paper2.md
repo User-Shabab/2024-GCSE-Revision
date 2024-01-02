@@ -213,6 +213,13 @@ The ovaries produce oestrogen, which controls puberty and is one of the main hor
 
 ## Controlling Blood Glucose
 
+If blood glucose levels are too high, this can have a negative impact on osmosis (movement of water between cells) by affecting concentration gradients.
+
+Glucose is important for respiration.
+Respiration releases the energy needed by every living cell.
+
+If there is not enough glucose, an organism cannot produce enough energy.
+
 ## The Kidneys
 
 ## Kidney Failure
@@ -222,6 +229,19 @@ The ovaries produce oestrogen, which controls puberty and is one of the main hor
 ## Controlling Fertility
 
 ## Thyroxine
+
+Thyroxine is responsible for regulating the growth and brain development of young animals.
+
+Production is regulated by a negative feedback loop. This allows the body to maintain a fairly constant concentration of thyroxine in the blood.
+When the concentration of thyroid hormones, such as thyroxine, in the blood is low, the production of thyroid-stimulating hormone (TSH) is increased.
+This stimulates the secretion of thyroxine by the thyroid gland.
+When the concentration of thyroid hormones in the blood is high, TSH production is decreased.
+
+### Adrenaline
+
+Adrenaline increases heart rate and blood pressure, and dilates the pupils in our eyes.
+Adrenaline enlarges the air passages of the lungs and alters metabolism in order to boost the delivery of oxygen and glucose to the brain and the muscles.
+In times of fear or stress, adrenaline is part of the so-called ‘fight or flight’ response, preparing the body to move and think quickly in response to danger.
 
 ## Plant Hormones
 
