@@ -102,7 +102,6 @@ What he hath lost, noble Macbeth hath won
 CONTEXT
 Model king - fair, honest, kind
 Divine right of kings
-
 ```
 
 #### Malcolm
@@ -154,9 +153,6 @@ CONTEXT
 ```
 
 ### Themes
-```
-
-```
 
 #### The Supernatural
 ```
