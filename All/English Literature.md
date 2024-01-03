@@ -179,11 +179,16 @@ One must always fight against the sinful regicide
 
 #### Banquo
 ```
--
-
+-A foil; Same as Macbeth too
+-Differ in responses to the prophecies
+-Only Macbeth takes matter in own hand; Doesn't have same hamartia
+-Not as ambitious
+-Banquo presented in good light (descendants be king)
 
 KEY QUOTES
-
+I dreamt last night of the three weird sisters
+played most foully for it
+wisdom that doth guide his valour
 
 CONTEXT
 
