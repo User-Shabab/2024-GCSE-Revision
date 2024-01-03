@@ -2,6 +2,45 @@
 
 ## Section A: Macbeth (William Shakespeare)
 
+### Needed Quotes
+```
+"I have no spur to prick the sides of my intent, but only vaulting ambition
+which o'erleaps itself and falls on the other"
+
+His intentions are too great
+Only thing helping him control that jump are spurs (his ambition)
+Not in control of this ambition
+Supernatural - met witches and not enough to kill Duncan/his intention
+So ambition not his hamartia, but his wife
+```
+
+```
+Fair is foul and foul is fair
+Hover through the fog and filthy air
+
+Introduces perspective of duality, a world of contrast, where there's no trust
+Links to whole idea that man's intention can't easily be read
+Hence Duncan dies from 2nd traitor of Cawdor
+Links to idea of fate
+His murder be inevitable
+ALTERNATIVELY fate could've been avoided
+Macbeth could've been king if waited but commited regicide due to impatience
+(An opposite of a greek tragedy)
+A frickitive; Sign of aggression; Converys violence of witch's desires
+Witches speak in trochaic tetrameter; hecne childlike portrayal
+HENCE SINISTER OR CHILDLIKE
+```
+
+```
+Out damned spot
+
+She now realises her soul will go hell
+```
+Unsex me here
+Thou shall get kings
+Dashed the brains out
+Look like the innocent flower
+
 ### Beginning Analysis
 
 **"Unseamed him from the nave to the chops and fixed his head upon our battlements"**
@@ -106,26 +145,36 @@ Divine right of kings
 
 #### Malcolm
 ```
--
-
+-Fair and honest like father
+-Aware of danger unlike father
+-Becomes confident leader
+-Earns trust of thanes and is rightful king
+-Proves his intelligence in battle
 
 KEY QUOTES
-
+There's daggers in men's smiles
+Wisdom plucks me
 
 CONTEXT
-
+Theme of kingship
+The rightful king from divine right of kings
 ```
 
 #### Macduff
 ```
--
-
+-Foil; Contrast with Macbeth
+-Very loyal to country
+-Sacrifices everything for country; a patriot; true hero
+-On the side of heaven; the perfect subject
 
 KEY QUOTES
+Bleed, bleed, poor country!
+Oh, Scotland, Scotland!
 
 
 CONTEXT
-
+He is the representative of the ideal warrior
+One must always fight against the sinful regicide
 ```
 
 #### Banquo
