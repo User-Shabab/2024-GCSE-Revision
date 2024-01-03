@@ -220,6 +220,18 @@ Respiration releases the energy needed by every living cell.
 
 If there is not enough glucose, an organism cannot produce enough energy.
 
+### Diabetes
+
+Type 1 diabetes
+In type 1 diabetes, sufferers are unable to produce enough insulin.
+The main treatment is to inject insulin when blood glucose levels rise too high.
+Sufferers can also manage their diet and exercise regularly to keep blood glucose levels as steady as possible.
+
+Type 2 diabetes
+In type 2 diabetes, sufferers can still produce insulin, but their body no longer responds to it.
+Because the body no longer responds to insulin, injecting insulin will not help.
+Instead, sufferers must manage their diet and exercise regularly to keep blood glucose levels steady.
+
 ## The Kidneys
 
 ## Kidney Failure
@@ -309,6 +321,12 @@ Proteins are synthesised on ribosomes, according to a template.
 Carrier molecules bring specific amino acids to add to the growing protein chain in the correct order.
 When the protein chain is complete it folds up to form a unique shape.
 This unique shape enables the proteins to do their job as enzymes, hormones or forming structures in the body such as collagen.
+
+A template is taken from the DNA and leaves the nucleus.
+The template is used to guide protein synthesis on ribosomes located in the cytoplasm.
+Specific amino acids are delivered by carrier molecules to the protein chain, where they are added in the order shown on the template.
+Once complete, the long protein chain folds up, giving it a unique structure.
+This unique structure is essential to the protein’s function, in the form of enzymes, hormones, or structural proteins (e.g. collagen).
 ```
 
 ### Inherited diseases
