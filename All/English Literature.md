@@ -36,10 +36,19 @@ Out damned spot
 
 She now realises her soul will go hell
 ```
+
+```
 Unsex me here
+```
+```
 Thou shall get kings
+```
+```
 Dashed the brains out
+```
+```
 Look like the innocent flower
+```
 
 ### Beginning Analysis
 
