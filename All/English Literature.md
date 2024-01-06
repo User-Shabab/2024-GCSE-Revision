@@ -1,5 +1,4 @@
 # Paper 1
-
 ## Section A: Macbeth (William Shakespeare)
 
 ### Needed Quotes
