@@ -1,7 +1,14 @@
+# Proving the Quadratic Formula
 
-*ax<sup>2</sup> + bx + c = 0*
+Start with the general equation of ax<sup>2</sup> + bx + c = 0
 
-*<sup>a</sup>⁄<sub>b</sub>*
+**ax<sup>2</sup> + bx + c = 0**
+
+**x<sup>2</sup> + <sup>b</sup>⁄<sub>a</sub>x + <sup>c</sup>⁄<sub>a</sub> = 0**
+
+**x<sup>2</sup> + <sup>b</sup>⁄<sub>a</sub>x = -<sup>c</sup>⁄<sub>a</sub>**
+
+**(x + <sup>b</sup>⁄<sub>2a</sub>)<sup>2</sup> - (<sup>b</sup>⁄<sub>2a</sub>)<sup>2</sup> = -<sup>c</sup>⁄<sub>a</sub>**
 
 # Simultaneous Equations
 
