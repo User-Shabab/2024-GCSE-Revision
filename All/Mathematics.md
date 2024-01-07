@@ -1,3 +1,8 @@
+
+*ax<sup>2</sup> + bx + c = 0*
+
+*<sup>a</sup>⁄<sub>b</sub>*
+
 # Simultaneous Equations
 
 Solved in 2 ways.
