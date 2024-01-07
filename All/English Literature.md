@@ -1,4 +1,5 @@
 # Paper 1
+
 ## Section A: Macbeth (William Shakespeare)
 
 ### Needed Quotes
@@ -204,14 +205,19 @@ CONTEXT
 
 #### The Witches
 ```
--
-
+-Instruments of fate
+-Act out of malice
+-Short lines with rhyme hence shown as evil and gruesome
+-Confuse by using paradoxes
 
 KEY QUOTES
-
+When shall we three meet again
+In thunder, lightning, or rain?
+Lesser than Macbeth, and greater
 
 CONTEXT
-
+Turn to evil as a woman coz no other avenue to gain power is open
+Denied rights as women
 ```
 
 ### Themes
