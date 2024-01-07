@@ -234,6 +234,102 @@ Instead, sufferers must manage their diet and exercise regularly to keep blood g
 
 ## The Kidneys
 
+### Controlling water balance
+
+```
+Illnesses that cause fever, vomiting or diarrhoea can result in dehydration (the blood's water concentration is too low).
+Eating too much salt - This can make the blood ion concentration too high.
+Exhalation - Water in the lungs leaves the body in the person’s breath.
+Sweating - Water, ions and urea are all lost in sweat.
+```
+
+Urea is formed when the digestion of protein results in an excess of (too many) amino acids, which can't be stored in the body.
+
+Deamination - In the liver, these amino acids undergo a process known as deamination, and the waste product is ammonia.
+
+The ammonia is then converted into urea and must be excreted from the body as urine.
+
+### Urine
+
+Ultrafiltration
+```
+The blood is filtered and all water, urea and salts move into the nephron tubule.
+Blood cells and proteins remain in the blood as they are too big to move across the capillary walls.
+```
+
+Selective reabsorption
+```
+Useful substances, including some water, are reabsorbed from the tubule back into the bloodstream.
+This leaves all urea, excess salts and excess water in the tubule.
+This mixture forms urine, which is collected by the kidneys and travels to the bladder to be stored and then excreted.
+```
+
+Too much water
+```
+The hypothalamus triggers the pituitary gland to stop the release of anti-diuretic hormone (ADH).
+This reduces the permeability of the kidney tubules. This means that less water is reabsorbed back into the bloodstream.
+This results in a large volume of dilute urine.
+```
+
+Too little water
+```
+The hypothalamus triggers the pituitary gland to release anti-diuretic hormone (ADH).
+This increases the permeability (ability of things to pass through) of the kidney tubules.
+This means that more water is reabsorbed back into the bloodstream.
+This results in a small volume of concentrated urine.
+```
+
+### Dialysis
+
+Machine
+```
+The patient is linked up to the dialysis machine and their blood flows into the machine.
+The machine contains a fluid that is designed to have the optimum concentrations of salts
+(e.g. sodium and potassium ions) and glucose, as would be found in a healthy person’s blood.
+```
+
+Fluid
+```
+The patient's blood passes over a partially permeable membrane in the machine that is designed to replicate the kidney tubules.
+The dialysis fluid is on the other side of the membrane. A concentration gradient is established, allowing excess ions and urea to diffuse from an area of high concentration in the patient’s blood to an area of low concentration in the dialysis fluid.
+```
+
+#### Advantages
+```
+Dialysis is a life-saving process.
+It gives a patient more time to find a donor kidney.
+```
+
+#### Disadvantages
+```
+Lasts 3-4 hours and is needed 3 times a week.
+Increases risk of blood clots and infections.
+Expensive process.
+```
+
+### Transplants
+
+Kidneys can also be transplanted from people who have recently died, provided that they are a tissue match and have registered onto the organ donor register.
+
+Patients receiving a donor kidney often have to take immunosuppressant drugs for the rest of their lives.
+These drugs suppress the immune system to prevent it from attempting to destroy the foreign cells of the transplanted kidney.
+
+Many patients choose to have a kidney transplant, which often comes from a close relative. Close relatives have a higher chance of being a tissue match.
+
+#### Advantages
+```
+The patient does not need to have dialysis treatment, which is time-consuming.
+Transplants are cheaper than dialysis in the long run.
+```
+
+#### Disadvantages
+```
+The kidney may be rejected by the body.
+There can be long waiting lists for kidney transplants.
+The patient often has to take immunosuppressant drugs.
+These can make a patient more prone to other infections.
+```
+
 ## Kidney Failure
 
 ## Menstrual Cycle
