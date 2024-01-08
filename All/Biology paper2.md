@@ -334,7 +334,31 @@ These can make a patient more prone to other infections.
 
 ## Menstrual Cycle
 
+### Hormones
+```
+Follicle Stimulating Hormone (FSH)
+Oestrogen
+Luteinising Hormone (LH)
+Progesterone
+```
+
+### Stages
+```
+FSH is released by the pituitary gland and causes an egg in the ovary to mature.
+FSH also stimulates (encourages) the production of oestrogen.
+Oestrogen is produced in the ovaries and causes the development of the thick, spongy uterus lining.
+Oestrogen also stimulates the production of Luteinising Hormone (LH) and inhibits (stops) the production of FSH.
+LH is produced by the pituitary gland and stimulates the release of a mature egg on Day 14 of the menstrual cycle.
+This release is called ovulation.
+Progesterone is produced in the ovaries after ovulation.
+It is responsible for maintaining the lining of the uterus during days 14-28.
+When progesterone levels drop, this triggers the breakdown of the lining. This marks day 1 of the next menstrual cycle.
+Progesterone also inhibits (stops) the release of LH and FSH.
+```
+
 ## Controlling Fertility
+
+
 
 ## Thyroxine
 
@@ -456,6 +480,24 @@ The characteristic can be chosen for usefulness or appearance:
 
 Selective breeding can lead to ‘inbreeding’ where some breeds are
 particularly prone to disease or inherited defects.
+```
+
+### Embryonic Screening
+
+Advantages
+```
+It could prevent people from suffering from genetic disorders.
+During IVF, most embryos are surplus to requirements anyway.
+In this case, screening would merely ensure that the implanted embryos are healthy.
+A reduction in disorders that need to be treated would save a significant amount of money in the long-term.
+```
+
+Disadvantages
+```
+There is potential that defining desirability of embryo based on their genetic make-up can promote discrimination.
+If mismanaged, this technology could become a way for parents to select the most desirable embryo as their child-to-be.
+In the short-term, screening is an expensive process.
+The embryos that are not used are destroyed. This can be considered unethical or against religious views.
 ```
 
 ### Steps(Genetic Engineering)
