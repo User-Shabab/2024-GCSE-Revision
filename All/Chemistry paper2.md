@@ -133,6 +133,15 @@ Acid + Metal Carbonate → Metal Salt + Carbon Dioxide + Water
 Alcohol + Carboxylic Acid ⇌ Ester + Water + Carbon Dioxide
 Glucose → Ethanol + Carbon Dioxide (Fermentation)
 ```
+## Polymers
+
+### Addition polymerisation
+
+### Condensation polymerisation 
+
+### Amino acids
+
+### DNA and other naturally occurring polymers
 
 # Topic 8 - Chemical Analysis
 # Topic 9 - Chemistry of the Atmosphere
