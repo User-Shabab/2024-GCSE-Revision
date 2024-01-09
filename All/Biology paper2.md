@@ -358,7 +358,90 @@ Progesterone also inhibits (stops) the release of LH and FSH.
 
 ## Controlling Fertility
 
+### Methods to prevent
+```
+Progesterone-only pill:
+Stimulates the production of thick, sticky mucus, which is very difficult for any sperm to penetrate.
+Inhibits the release of FSH, so that eggs don’t mature.
+Just as effective as the combined pill but with fewer side effects.
 
+Combined pill:
+Contains both oestrogen and progesterone.
+By taking every day, enough oestrogen builds up in female body to inhibit production of FSH so no eggs mature.
+----
+Contraceptive injection:
+The contraceptive injection contains progesterone and can last up to three months.
+
+Contraceptive implant:
+The contraceptive implant, which can last for 3 years, is inserted under the skin (normally in an arm)
+And continuously releases a small amount of progesterone.
+
+Contraceptive patch
+The woman places the small contraceptive patch onto the skin, which only has to be changed once a week.
+This steadily releases progesterone.
+----
+Intrauterine devices (IUDs):
+This is also known as the coil.
+They are small t-shaped devices that are inserted into the uterus.
+They work by preventing implantation of an embryo (fertilised egg).
+Some intrauterine devices also release progesterone.
+
+Diaphragms:
+A diaphragm is a shallow plastic cup, which is inserted into the vagina prior to sexual intercourse and sits at the entrance to the uterus.
+It is designed to prevent the sperm from reaching the egg.
+It can also be covered in a spermicide to kill the sperm.
+----
+Condoms (With Spermicide):
+Condoms often contain a spermicide, which kills the sperm on release.
+----
+Sterilisation:
+
+For a man, this involves having the sperm ducts (the tubes between the testes and the penis) cut
+So that the sperm are not released on ejaculation.
+
+For a woman, this involves having the fallopian tubes (ducts which connect the ovaries to the uterus) cut
+So that an egg cannot reach the uterus.
+----
+Abstinence:
+The only truly effective way (apart from sterilisation) to avoid pregnancy is abstinence.
+This simply means that a couple chooses to not have sexual intercourse unless they are ready for a baby.
+
+Timing:
+Since a female’s body temperature usually rises during ovulation
+some women choose to avoid sexual intercourse on days when they know (or feel) that they are ovulating.
+However, sperm can last up to six days inside the woman’s body
+so this is not a very reliable or effective method of contraception.
+```
+
+### Methods to increase
+```
+Fertility drugs:
+A drug that contains a mixture of FSH and LH can be prescribed by a doctor.
+Boosting the levels of FSH and LH can cause an egg to be released in the ovaries.
+
+In-vitro fertilisation (IVF):
+FSH & LH are given to stimulate the growth of lots of eggs.
+Eggs are collected before being fertilised in a petri dish in a laboratory, using sperm from the father.
+These fertilised eggs grow into embryos and are implanted into the woman’s uterus.
+```
+
+#### How IVF works
+```
+FSH and LH are given as fertility drugs to stimulate the growth of large numbers of eggs.
+These eggs are then collected before being fertilised in a dish in a laboratory, using sperm from the father.
+This is why babies born using this technique are often called ‘test tube babies’.
+The fertilised eggs are allowed to grow into embryos. One of these is then implanted into the woman’s uterus.
+Sometimes, two embryos are implanted to try to increase the chance of pregnancy.
+```
+
+### Disadvantages of fertility treatments
+```
+The treatments can result in multiple pregnancies (twins or triplets if more embryos are implanted).
+This can put both the mother and the children at risk.
+Fertility treatments are not guaranteed to work and can be very expensive.
+Their success rates are not that high and many attempts may be needed.
+It can place high levels of emotional and physical stress on patients and their families.
+```
 
 ## Thyroxine
 
