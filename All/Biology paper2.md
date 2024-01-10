@@ -455,10 +455,64 @@ When the concentration of thyroid hormones in the blood is high, TSH production 
 ### Adrenaline
 
 Adrenaline increases heart rate and blood pressure, and dilates the pupils in our eyes.
+
 Adrenaline enlarges the air passages of the lungs and alters metabolism in order to boost the delivery of oxygen and glucose to the brain and the muscles.
+
 In times of fear or stress, adrenaline is part of the so-called ‘fight or flight’ response, preparing the body to move and think quickly in response to danger.
 
 ## Plant Hormones
+
+### Auxins
+```
+Auxins change growth patterns to allow roots and shoots to move either towards or away from a stimulus (change in conditions).
+Responses to stimuli that involve directional growth are called tropisms.
+
+Gravitropisms (or geotropisms):
+Growth either towards (positively gravitropic) or away from (negatively geotropic) the direction of gravity.
+
+Phototropisms:
+These involve growth either towards (positively phototropic) or away from (negatively phototropic) a light source.
+
+-weed killers as they can initiate (start) such rapid growth that the weeds use up all of their resources and die.
+-rooting powders (growth supplement) and to promote growth in tissue culture.
+```
+
+### Ethene
+```
+Ethene is a gas that controls cell division and the ripening of fruits.
+-food industry
+```
+
+### Gibberellins
+```
+Gibberellins are important in starting off the seed germination (sprouting) process.
+-promote flowering, increase fruit size
+```
+
+### Light Investigations
+```
+Step 1:
+Place the seeds in petri dishes with damp cotton wool, and leave them in a warm place to germinate (develop).
+
+Step 2:
+Randomly divide the petri dishes into three groups and assign each group to one of the following light conditions:
+-Full sunlight in a windowsill
+-Darkness
+-Partial light
+
+Step 3:
+Measure the height of each plant every day for a week.
+
+Step 4:
+Draw and label biological drawings to show the effects.
+
+Step 5:
+The independent variable is the lighting conditions.
+The dependent variable is the growth of the plant.
+
+Step 6:
+Phototropism can also be demonstrated by placing a seedling in a container that is open only on one side.
+```
 
 ### Commercial Uses
 
