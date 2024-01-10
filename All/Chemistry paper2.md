@@ -136,10 +136,29 @@ Glucose → Ethanol + Carbon Dioxide (Fermentation)
 ## Polymers
 
 ### Addition polymerisation
+```
+In addition polymerisation reactions, many small molecules
+(monomers) join together to form very large molecules (polymers).
+For example:
+In addition polymers the repeating unit has the same atoms as the
+monomer because no other molecule is formed in the reaction.
 
-### Condensation polymerisation 
+Functional group C=C in the monomers
+```
+
+### Condensation polymerisation
+```
+Involves monomers with two functional groups. When these types of monomers react they join
+together, usually losing small molecules such as water, and so the
+reactions are called condensation reactions.
+```
 
 ### Amino acids
+```
+Amino acids have two different functional groups in a molecule.
+Amino acids react by condensation polymerisation to produce
+polypeptides
+```
 
 ### DNA and other naturally occurring polymers
 
