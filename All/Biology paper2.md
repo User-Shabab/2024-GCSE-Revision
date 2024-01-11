@@ -520,8 +520,6 @@ Phototropism can also be demonstrated by placing a seedling in a container that 
 
 ## Reproduction
 
-
-
 ### Advantages of Reproduction
 ```
 Advantages of sexual reproduction:
