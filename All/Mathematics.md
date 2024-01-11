@@ -1,24 +1,24 @@
 # Circle Theorems
 
-**1** Angle subtended at the arc is twice the angle subtended at the circumference
+**1** **Angle subtended at the arc is twice the angle subtended at the circumference**
 
-![]()
+![Theorem 1](https://www.mathematics-monster.com/images5/circle_theorem_angle_at_center_twice_angle_at_circumference.jpg)
 
-**2** The angle subtended inside a semi-circle is a right angle
+**2** **The angle subtended inside a semi-circle is a right angle**
 
-![Theorem 2]()
+![Theorem 2](https://www.mathematics-monster.com/images5/circle_theorem_angle_in_semicircle_is_90_degrees.jpg)
 
-**3** Opposite angles in a cyclic quadrilateral are supplementary
+**3** **Opposite angles in a cyclic quadrilateral are supplementary**
 
-![Theorem 3]()
+![Theorem 3](https://www.mathematics-monster.com/images5/circle_theorem_opposite_angles_in_a_cyclic_quadrilateral_add_up_to_180_degrees.jpg)
 
-**4** Angles in alternate segments are equal
+**4** **Tangents drawn from outside points create 2 congruent right-angled triangles**
 
-![Theorem 4]()
+![Theorem 4](https://www.mathematics-monster.com/images5/circle_theorem_tangents_from_same_point_are_equal.jpg)
 
-**5** Tangets drawn
+**5)** **Angle between a chord and tangent equal to angle subtended at circumference in opposite segment**
 
-**** Two tangents meet at equal length  
+![Theorem 5](https://www.mathematics-monster.com/images5/circle_theorem_angle_in_alternate_segment_is_equal.jpg)
 
 # Proving the Quadratic Formula
 
