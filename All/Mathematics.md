@@ -2,13 +2,23 @@
 
 **1** Angle subtended at the arc is twice the angle subtended at the circumference
 
-![Theorem 1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZJ7-DF0DIYB41stobyrloj_kZaWRUu8xqBP7wLbvTwQ&s)
+![]()
 
-**2** Angles subtended by an arc in the same segment are equal
+**2** The angle subtended inside a semi-circle is a right angle
 
-![Theorem 2](https://www.geogebra.org/resource/BDnN33CH/wS5clDJUY8Yt41Ke/material-BDnN33CH.png)
+![Theorem 2]()
 
-**3** 
+**3** Opposite angles in a cyclic quadrilateral are supplementary
+
+![Theorem 3]()
+
+**4** Angles in alternate segments are equal
+
+![Theorem 4]()
+
+**5** Tangets drawn
+
+**** Two tangents meet at equal length  
 
 # Proving the Quadratic Formula
 
