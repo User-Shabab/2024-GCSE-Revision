@@ -1,6 +1,14 @@
 # Circle Theorems
 
+**1** Angle subtended at the arc is twice the angle subtended at the circumference
 
+![Theorem 1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZJ7-DF0DIYB41stobyrloj_kZaWRUu8xqBP7wLbvTwQ&s)
+
+**2** Angles subtended by an arc in the same segment are equal
+
+![Theorem 2](https://www.geogebra.org/resource/BDnN33CH/wS5clDJUY8Yt41Ke/material-BDnN33CH.png)
+
+**3** 
 
 # Proving the Quadratic Formula
 
