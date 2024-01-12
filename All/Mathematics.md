@@ -53,6 +53,11 @@ Stretch graph by **(<sup>1</sup>/<sub>k</sub>)** in x-axis (Frequency)
 
 ![Frequency](https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/896/2016/10/18203621/CNX_Precalc_Figure_01_05_028.jpg)
 
+All variables together:
+```
+y = cf(kx + b) + a
+```
+
 # Proving the Quadratic Formula
 
 Start with the general equation of ax<sup>2</sup> + bx + c = 0
