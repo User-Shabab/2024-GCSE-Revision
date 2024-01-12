@@ -20,6 +20,39 @@
 
 ![Theorem 5](https://www.mathematics-monster.com/images5/circle_theorem_angle_in_alternate_segment_is_equal.jpg)
 
+# Graph transformations
+```
+y = f(x) + a
+```
+
+Translate graph by vector **(<sup>0</sup><sub>a</sub>)**
+
+![Vertical translation](https://img.sparknotes.com/figures/5/585483eda45473ee0e63740d71a1ae7a/vertical_shift.gif)
+
+```
+y = f(x + b)
+```
+
+Translate graph by vector  **(<sup>-b</sup><sub>0</sub>)**
+
+![Horizantal translation](https://img.sparknotes.com/figures/5/585483eda45473ee0e63740d71a1ae7a/horizontal_shift.gif)
+
+```
+y = cf(x)
+```
+
+Stretch graph by **c** in the y-axis (Amplitude)
+
+![Amplitude](https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/896/2016/10/18203611/CNX_Precalc_Figure_01_05_0242.jpg)
+
+```
+y = f(kx)
+```
+
+Stretch graph by **(<sup>1</sup>/<sub>k</sub>)** in x-axis (Frequency)
+
+![Frequency](https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/896/2016/10/18203621/CNX_Precalc_Figure_01_05_028.jpg)
+
 # Proving the Quadratic Formula
 
 Start with the general equation of ax<sup>2</sup> + bx + c = 0
