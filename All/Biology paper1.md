@@ -34,6 +34,8 @@ Ribosomes: Where protein synthesis takes place
 
 ## Microscopes
 
+![Light Microscope](http://www.microscopemaster.com/images/cm501microscopediagram.jpg)
+
 ### Light
 ```
 Cheaper
