@@ -75,7 +75,22 @@ The cerebellum is important for movement, posture, balance and speech.
 This part is responsible for unconscious activities (e.g. breathing and heartbeat).
 ```
 
+### Study methods
+```
+Electrical stimulation:
+Electrical stimulation has also allowed us to treat certain disorders of the brain.
+Since nervous system communicate with electrical impulse, electric stimulation used to help treat conditions
+eg Parkinson’s disease (cause tremors).
 
+MRI scanners:
+MRI stands for Magnetic Resonance Imaging.
+MRI scanners have allowed us to learn which areas of the brain are active during different activities
+eg moving, speaking and listening.
+
+Brain damage:
+By studying patients with brain damage, where part of their brain doesn’t function,
+neuroscientists have been able to link particular regions of the brain to particular functions.
+```
 
 ## The Eye
 
