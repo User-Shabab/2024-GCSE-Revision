@@ -32,13 +32,21 @@ HENCE SINISTER OR CHILDLIKE
 ```
 
 ```
-Out damned spot
+Out damned spot!
+Hell is murky
 
-She now realises her soul will go hell
+Represents her guilt
+She now realises her soul will go hell - Christianity
+Hell is MURKY - link to filthy air - hence carries light around with her
+sleepwalkin - ambition has been too gr8 for her hence causing mental grief
 ```
 
 ```
 Unsex me here
+
+In order to succeed in society you need to be a man
+Following patriarchal rules hence rejecting own feminine qualities
+
 ```
 ```
 Thou shall get kings
