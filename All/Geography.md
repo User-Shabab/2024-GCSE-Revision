@@ -49,11 +49,13 @@ Form around the ITCZ
 Coriolis force provides the cyclone with the spin
 ```
 
-#### Case Studies
+### Case Studies
 
-##### Developing Country: The Philippines
+#### Developing Country: The Philippines
 
-November 2013
+Tropical Cyclones
+
+**November 2013**
 
 ```
 Preparation {
@@ -69,9 +71,11 @@ Responses {
   The United Nations sent £480 million }
 ```
 
-##### Developed Country: The USA
+#### Developed Country: The USA
 
-August 2005
+Tropical Cyclones
+
+**August 2005**
 
 ```
 Preparation {
@@ -86,6 +90,16 @@ Responses {
   The emergency services were slow and unprepared
   The UK government sent food aid }
 ```
+
+## Section B - Development Dynamics
+
+### Case Studies
+
+#### China - MIC//Emerging
+
+## Section C - Challenges of an Urbanising World
+
+#### Mumbai, India - MIC//Emerging
 
 # Paper 2
 
