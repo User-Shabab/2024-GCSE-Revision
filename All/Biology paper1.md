@@ -152,12 +152,13 @@ Blood is prevented from flowing back into the atria by heart valves.
 
 **Arteries**
 ```
-Elastic fibres allow the artery wall to expand around blood surging through at high pressure when the heart contracts, fibres recoil when heart relaxes – this with a narrow lumen maintains high blood pressure
+Elastic fibres allow the artery wall to expand around blood surging through at high pressure
+when the heart contracts, fibres recoil when heart relaxes – this with a narrow lumen maintains high blood pressure
 ```
 
 **Capillaries**
 ```
-The wall is only one cell thick – this reduces the diffusion distance for oxygen and carbon dioxide between the blood and the tissues of the body
+Wall is only one cell thick – this reduces diffusion distance for oxygen and carbon dioxide between blood and tissues of body
 The cells of the wall have gaps called pores which allow blood plasma to leak out and form tissue fluid
 ```
 
@@ -174,7 +175,8 @@ Veins contain valves that prevent the backflow of blood, helping return blood to
 ```
 Red blood cells are cells with a distinctive biconcave disc shape
 This shape is a result of Red blood cells not having a nucleus
-Biconcave shape gives Red blood cells large surface to volume ratio; is a key adaptation to maximise efficiency of diffusion of gases in and out of cell
+Biconcave shape gives Red blood cells large surface to volume ratio;
+is a key adaptation to maximise efficiency of diffusion of gases in and out of cell
 
 The cytoplasm of a Red blood cell is packed with the protein haemoglobin
 Oxygen binds reversibly with haemoglobin, forming the red pigment oxyhaemoglobin:
@@ -204,7 +206,8 @@ Individuals with insufficient platelets cannot clot their blood effectively – 
 ### Plasma
 ```
 Plasma is a watery fluid in which holds all the components of blood flow
-Plasma carries platelets, red and white blood cells, carbon dioxide, digested food including glucose, amino acids and soluble nutrients, urea, hormones, antibodies, antitoxins, proteins and heat energy
+Plasma carries platelets, red and white blood cells, carbon dioxide, digested food including glucose,
+amino acids and soluble nutrients, urea, hormones, antibodies, antitoxins, proteins and heat energy
 ```
 
 ## Plant Cell
