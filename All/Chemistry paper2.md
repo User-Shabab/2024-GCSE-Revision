@@ -1,4 +1,12 @@
 # Topic 6 - The Rate and Extent of Chemical Change
+
+## Calculate rate of reaciton
+```
+Mean rate of reaction = Quantity of product formed ÷ Time taken
+```
+
+
+
 # Topic 7 - Organic Chemistry
 
 ## Hydrocarbons
