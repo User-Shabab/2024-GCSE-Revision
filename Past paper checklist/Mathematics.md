@@ -12,6 +12,18 @@
 - [ ] MS: https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/exam-materials/1ma1-1h-rms-20220113.pdf
 - [ ] QP: https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/exam-materials/1ma1-1h-que-20211103.pdf
 
+## 2020 Nov
+- [ ] MS: 
+- [ ] QP:
+
+## 2019 Nov
+- [ ] MS: 
+- [ ] QP: 
+
+## 2019 Jun
+- [ ] MS: 
+- [ ] QP: 
+
 # Paper 2 (H)
 
 ## 2022 Nov
@@ -26,6 +38,18 @@
 - [ ] MS: https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/exam-materials/1ma1-2h-rms-20220113.pdf
 - [ ] QP: https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/exam-materials/1ma1-2h-que-20211105.pdf
 
+## 2020 Nov
+- [ ] MS: 
+- [ ] QP:
+
+## 2019 Nov
+- [ ] MS: 
+- [ ] QP: 
+
+## 2019 Jun
+- [ ] MS: 
+- [ ] QP: 
+
 # Paper 3 (H)
 
 ## 2022 Nov
@@ -39,3 +63,15 @@
 ## 2021 Nov
 - [ ] MS: https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/exam-materials/1ma1-3h-rms-20220113.pdf
 - [ ] QP: https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/exam-materials/1ma1-3h-que-20211109.pdf
+
+## 2020 Nov
+- [ ] MS: 
+- [ ] QP:
+
+## 2019 Nov
+- [ ] MS: 
+- [ ] QP: 
+
+## 2019 Jun
+- [ ] MS: 
+- [ ] QP: 
