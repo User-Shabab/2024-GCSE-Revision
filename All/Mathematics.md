@@ -155,4 +155,6 @@ x = 10.35 - 4(2.15)
 
 # Surds
 
-Has (this many) rules/laws.
+Has 5 rules/laws.
+
+**1) √a × √b = √(a × b)**
