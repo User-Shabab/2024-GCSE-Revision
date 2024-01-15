@@ -158,3 +158,5 @@ x = 10.35 - 4(2.15)
 Has 5 rules/laws.
 
 **1) √a × √b = √(a × b)**
+
+**2) <sup>√a</sup>/<sub>√b</sub>** = √(<sup>a</sup>/<sub>b</sub>)
