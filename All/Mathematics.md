@@ -58,6 +58,66 @@ All variables together:
 y = cf(kx + b) + a
 ```
 
+# Indices
+
+Has 8 rules/laws.
+
+**1) When multiplying 2 powers, add them**
+
+Eg
+```
+
+```
+
+**2) When dividing 2 powers, subtract them**
+
+Eg
+```
+
+```
+
+**3) Whem raising one power to another, multiply them**
+
+Eg
+```
+
+```
+
+**4) Anything to the power of 1 is itself**
+
+Eg
+```
+
+```
+
+**5) Anything to the power of 0 is 1**
+
+Eg
+```
+
+```
+
+**6) Fractions - Apply power to both numerator and denominator**
+
+Eg
+```
+
+```
+
+**7) Negative powers - Flip the fraction and make power positive**
+
+Eg
+```
+
+```
+
+**8) Fractional powers - Denominator as root, numerator as power**
+
+Eg
+```
+
+```
+
 # Proving the Quadratic Formula
 
 Start with the general equation of ax<sup>2</sup> + bx + c = 0
@@ -159,11 +219,31 @@ Has 5 rules/laws.
 
 **1) √a × √b = √(a × b)**
 
+Eg
+```
+
+```
+
 **2) <sup>√a</sup>/<sub>√b</sub> = √(<sup>a</sup>/<sub>b</sub>)**
+
+Eg
+```
+
+```
 
 **3) (a+√b)<sup>2</sup> = a<sup>2</sup> + 2a√b + b**
 
+Eg
+```
+
+```
+
 **4) (a + √b)(a - √b) = a<sup>2</sup> - b**
+
+Eg
+```
+
+```
 
 **5) Rationalising denominators.**
 
