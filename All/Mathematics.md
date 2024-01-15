@@ -159,4 +159,20 @@ Has 5 rules/laws.
 
 **1) √a × √b = √(a × b)**
 
-**2) <sup>√a</sup>/<sub>√b</sub>** = √(<sup>a</sup>/<sub>b</sub>)
+**2) <sup>√a</sup>/<sub>√b</sub> = √(<sup>a</sup>/<sub>b</sub>)**
+
+**3) (a+√b)<sup>2</sup> = a<sup>2</sup> + 2a√b + b**
+
+**4) (a + √b)(a - √b) = a<sup>2</sup> - b**
+
+**5) Rationalising denominators.**
+
+Lone term//Easy questions
+```
+
+```
+
+Complex term//Harder questions
+```
+
+```
