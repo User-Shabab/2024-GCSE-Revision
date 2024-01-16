@@ -24,6 +24,16 @@ E = mgh
 
 ## Energy transfers
 
+Energy can be transferred by:
+
+Heating
+
+Electrically
+
+Mechanically
+
+Radiation
+
 ## SHC Practical
 
 ## Power and efficiency
