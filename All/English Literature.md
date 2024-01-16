@@ -371,9 +371,65 @@ profit in war.
 
 ## Section B: Power and conflict poetry
 
-### Ozymandias
+### Ozymandias - PERCY SHELLEY
 
 
-### 
+
+### London - WILLIAM BLAKE
+
+
+
+### Extract from, The Prelude - WILLIAM WORDSWORTH
+
+
+
+### My Last Duchess - ROBERT BROWNING
+
+
+
+### The Charge of the Light Brigade - ALFRED TENNYSON
+
+
+
+### Exposure - WILFRED OWEN
+
+
+
+### Storm on the Island - SEAMUS HEANEY
+
+
+
+### Bayonet Charge - TED HUGHES
+
+
+
+### Remains - SIMON ARMITAGE
+
+
+
+### Poppies - JANE WEIR
+
+
+
+### War Photographer - CAROL DUFFY
+
+
+
+### Tissue - IMTIAZ DHARKER
+
+
+
+### The Emigree - CAROL RUMENS
+
+
+
+### Checking Out Me History - JOHN AGARD
+
+
+
+### Kamikaze - BEATRICE GARLAND
+
+
+
 
 ## Section C: Unseen poetry
