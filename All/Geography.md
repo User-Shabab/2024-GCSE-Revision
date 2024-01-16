@@ -151,16 +151,6 @@ Environmental impacts: China uses large amounts of coal and oil to power its
 factories, releasing CO2 into the atmosphere which contributes to global warming.
 In 2017, 14,000 TNCs were found to be breaking water and air pollution laws in
 China. This has led to a rise in cancer cases across the country.
-```
-
-#### Myanmar - LIC//Developing
-```
-Language(s): Burmese, Bengali, Khmer, Chinese...
-GDP: ~US$ 75 bn
-How many countries it borders: 5
-Land area: ~680,000 km²
-Population: ~55,000,000
-Power in control:  National League for Democracy (NLD) party leader Aung San Suu Kyi
 
 - How has rapid economic growth changed the international role of the emerging country?
 International organisations: China joined the United Nations in 1971,
@@ -175,6 +165,18 @@ Military: Taiwan thinks it is independent. Currently China has 1,600 missiles po
 
 Military: China is having disputes with other countries such as Japan and Spratly and Paracel islands
 about how much of the East China sea it owns and is allowed to patrol.
+```
+
+#### Myanmar - LIC//Developing
+```
+Language(s): Burmese, Bengali, Khmer, Chinese...
+GDP: ~US$ 75 bn
+How many countries it borders: 5
+Land area: ~680,000 km²
+Population: ~55,000,000
+Power in control:  National League for Democracy (NLD) party leader Aung San Suu Kyi
+
+
 ```
 
 ## Section C - Challenges of an Urbanising World
