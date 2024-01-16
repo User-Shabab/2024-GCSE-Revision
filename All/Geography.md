@@ -188,6 +188,135 @@ Power in control:  National League for Democracy (NLD) party leader Aung San Suu
 
 # Paper 2
 
+## Processes of Erosion
+```
+Hydraulic Action- water pushes into cracks in rocks
+Attrition- rocks hit against each other
+Abrasion – rocks rub/scrape against cliffs
+Solution – weakly acidic sea water dissolves rocks
+```
+
+## Processes of Transportation
+```
+Traction – rocks roll along the sea floor
+Saltation – rocks bounce along the sea floor
+Suspension – rocks are held up and carried in waves
+Solution – sediment is dissolved and carried in the waves
+```
+
+## Processes of Deposition
+```
+Deposition – occurs when waves lose energy (wind speed drops)
+and drop sediment they are carrying
+```
+
+## Landforms
+
+### Coasts
+
+#### Erosional
+```
+Cave, arch, stack, stump
+1. Waves erode cracks in a headland by hydraulic
+action- the force of the waves pushes into the
+cracks, widening them, forming caves.
+2. Erosion of the back of the cave by abrasion will
+cause it to break through to the other side of the
+headland forming an arch.
+3. The top of the arch is weakened by further erosion
+and weathering. It becomes unstable and collapses
+leaving behind a pillar of rock called a stack.
+4. Erosion of the base of the stack will cause it to fall
+over forming a stump.
+
+Wave-cut platform and cliffs
+1. At high tide, waves will erode the bottom of a cliff
+by hydraulic action- when the force of the waves
+pushes into cracks in the cliff, widening them.
+2. Over time this forms a wave-cut notch at the base
+of the cliff- like an ice-cream scoop along the
+bottom of the cliff.
+3. This undercuts the cliff above, which will become
+unstable as the wave-cut notch gets bigger. The cliff
+will eventually collapse.
+4. This process repeats over time, leaving behind a
+rocky platform that is exposed at low tide called a
+wave-cut platform, with a steep cliff behind it.
+
+Headlands and bays
+1. Headlands and bays form on discordant coastlines
+where there are alternating bands of hard and soft
+rock arranges perpendicular (at right angles) to the
+coastline.
+2. The bands of softer rock are less resistant, so they
+erode faster due to processes like abrasion, when
+rocks rub against the cliffs wearing them away like
+sandpaper.
+3. The erosion of the softer rock forms bays, which are
+sheltered areas of the coast where beaches form.
+4. The harder bands of rock are more resistant to
+erosion so they erode slowly, and are left sticking
+out to sea forming headlands.
+```
+
+#### Depositional
+```
+Beach
+1. Beaches form due to transportation and deposition
+in sheltered areas of the coastlines like bays.
+2. Wind speed is lower in bays, therefore waves have
+low energy, and are usually constructive waves.
+3. Constructive waves have a weak backwash and a
+strong swash, which means that sediment carried
+in the waves by suspension (when sediment is held
+up and carried in waves) can be deposited as the
+swash moves towards the coast.
+4. Sediment and sand is deposited on the coastline,
+over time building up to form a beach.
+
+Spit
+1. A spit begins to form when longshore drift
+transports sediment along the coastline. The wind
+pushes the swash of a wave up the beach at an
+angle, and the backwash moves straight back out to
+sea due to gravity.
+2. This process repeats and sediment is transported
+along the coast in a zig-zag pattern.
+3. When longshore drift reaches a bend in the
+coastline, wind speed drops and the waves lose
+energy. This cause deposition of sediment to occur.
+4. Over time, more sediment is transported and
+deposited which results in the formation of a long
+ridge of sand sticking out to sea called a spit.
+
+Bar
+1. A bar begins to form when longshore drift
+transports sediment along the coastline. The wind
+pushes the swash of a wave up the beach at an
+angle, and the backwash moves straight back out to
+sea due to gravity.
+2. This process repeats and sediment is transported
+along the coast in a zig-zag pattern.
+3. When longshore drift reaches a bend in the
+coastline, wind speed drops and the waves lose
+energy. This cause deposition of sediment to occur.
+4. As more sediment is deposited, a spit forms. If the
+spit connects to another headland this forms a bar,
+with a lagoon of trapped water behind it.
+```
+
+### Rivers
+
+#### Erosional
+```
+
+```
+
+#### Depositional
+```
+
+```
+
 # Paper 3
 
 ### Biome comparisons
