@@ -13,16 +13,16 @@
 - [ ] QP: https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/exam-materials/1ma1-1h-que-20211103.pdf
 
 ## 2020 Nov
-- [ ] MS: 
-- [ ] QP:
+- [ ] MS: NA
+- [ ] QP: NA
 
 ## 2019 Nov
-- [ ] MS: 
-- [ ] QP: 
+- [ ] MS: https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/exam-materials/1MA1_1H_msc_20200116.pdf
+- [ ] QP: https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/exam-materials/1MA1_1H_que_20200116.pdf
 
 ## 2019 Jun
-- [ ] MS: 
-- [ ] QP: 
+- [ ] MS: https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/exam-materials/1MA1_1H_rms_20190822.pdf
+- [ ] QP: https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/exam-materials/1MA1_1H_que_20190522.pdf
 
 # Paper 2 (H)
 
@@ -39,16 +39,16 @@
 - [ ] QP: https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/exam-materials/1ma1-2h-que-20211105.pdf
 
 ## 2020 Nov
-- [ ] MS: 
-- [ ] QP:
+- [ ] MS: NA
+- [ ] QP: https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/exam-materials/1ma1-2h-que-20201106.pdf
 
 ## 2019 Nov
-- [ ] MS: 
-- [ ] QP: 
+- [ ] MS: https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/exam-materials/1MA1_2H_msc_20200116.pdf
+- [ ] QP: https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/exam-materials/1MA1_2H_que_20200116.pdf
 
 ## 2019 Jun
-- [ ] MS: 
-- [ ] QP: 
+- [ ] MS: https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/exam-materials/1MA1_2H_rms_20190822.pdf
+- [ ] QP: https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/exam-materials/1MA1_2H_que_20190607.pdf
 
 # Paper 3 (H)
 
@@ -65,13 +65,13 @@
 - [ ] QP: https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/exam-materials/1ma1-3h-que-20211109.pdf
 
 ## 2020 Nov
-- [ ] MS: 
-- [ ] QP:
+- [ ] MS: NA
+- [ ] QP: https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/exam-materials/1ma1-3h-que-20201110.pdf
 
 ## 2019 Nov
-- [ ] MS: 
-- [ ] QP: 
+- [ ] MS: https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/exam-materials/1MA1_3H_msc_20200116.pdf
+- [ ] QP: https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/exam-materials/1MA1_3H_que_20200116.pdf
 
 ## 2019 Jun
-- [ ] MS: 
-- [ ] QP: 
+- [ ] MS: https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/exam-materials/1MA1_3H_rms_20190822.pdf
+- [ ] QP: https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/exam-materials/1MA1_3H_que_20190612.pdf
