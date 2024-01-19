@@ -23,7 +23,17 @@ Can be: Contact and Non-contact Forces
 
 Normal contact force only happen if 2 objects in direct contact
 
-
+## Equations
+```
+weight  = mass  × gravitational field strength
+work done = force × distance
+F = ke
+F = pA
+s = vt
+a = (v - u) ÷ t
+F = ma
+p = mv
+```
 
 # Topic 6 - Waves
 
