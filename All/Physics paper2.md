@@ -1,5 +1,30 @@
 # Topic 5 - Forces
 
+## Scalar and Vector Quantities
+```
+Scalar values only have magnitude
+Eg:
+Mass
+Temperature
+Speed
+Energy
+
+Vector quantities have magnitude and direction
+Eg:
+Displacement
+Weight
+Force
+Velocity
+```
+
+Forces are a push or pull
+
+Can be: Contact and Non-contact Forces
+
+Normal contact force only happen if 2 objects in direct contact
+
+
+
 # Topic 6 - Waves
 
 ## Transverse and Longitudinal
