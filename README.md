@@ -20,7 +20,7 @@ First a text version. Soon a GUI.
 
 ## Exam Boards
 
-Note that these may or may not be all the subjects I am taking/ have taken for GCSE.
+Note that these may or may not be all the subjects I have taken for GCSE.
 
 - [ ] Mathematics - Edexcel
 - [ ] English Language - AQA
