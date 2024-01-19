@@ -171,5 +171,31 @@ polypeptides
 ### DNA and other naturally occurring polymers
 
 # Topic 8 - Chemical Analysis
+
+## Identifying metal ions
+```
+Flame tests can be used to identify some metal ions (cations).
+Lithium, sodium, potassium, calcium and copper compounds
+produce distinctive colours in flame tests:
+• lithium compounds result in a crimson flame
+• sodium compounds result in a yellow flame
+• potassium compounds result in a lilac flame
+• calcium compounds result in an orange-red flame
+• copper compounds result in a green flame.
+If a sample containing a mixture of ions is used some flame colours
+can be masked.
+
+Sodium hydroxide solution can be used to identify some metal ions
+(cations).
+Solutions of aluminium, calcium and magnesium ions form white
+precipitates when sodium hydroxide solution is added but only the
+aluminium hydroxide precipitate dissolves in excess sodium
+hydroxide solution.
+Solutions of copper(II), iron(II) and iron(III) ions form coloured
+precipitates when sodium hydroxide solution is added.
+Copper(II) forms a blue precipitate, iron(II) a green precipitate and
+iron(III) a brown precipitate.
+```
+
 # Topic 9 - Chemistry of the Atmosphere
 # Topic 10 - Using Resources
