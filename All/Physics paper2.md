@@ -47,20 +47,36 @@ where several forces lead to a resultant force on an object,
 including balanced forces when the resultant force is zero.
 ```
 
-
+## Values for speed
+```
+walking ̴ 1.5 m/s
+running ̴ 3 m/s
+cycling ̴ 6 m/s
+sound in air is 330 m/s
+```
 
 ## Equations
-```
+
 weight  = mass  × gravitational field strength
+
 work done = force × distance
+
 F = ke
+
 F = pA
+
 s = vt
+
 a = (v - u) ÷ t
+
+v<sup>2</sup> −  u<sup>2</sup> = 2as
+
 F = ma
+
 p = mv
+
 M = Fd
-```
+
 
 ## Pressure and pressure differences in fluids
 ```
