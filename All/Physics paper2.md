@@ -15,11 +15,22 @@ Displacement
 Weight
 Force
 Velocity
+
+A vector quantity may be represented by an arrow. The length of
+the arrow represents the magnitude, and the direction of the arrow
+the direction of the vector quantity
 ```
 
-Forces are a push or pull
+Forces are a push or pull acting on an object
 
 Can be: Contact and Non-contact Forces
+
+```
+Contact Forces
+Eg ( friction, air resistance, tension and normal contact force)
+Non-contact Forces
+Eg (gravitational force, electrostatic force and magnetic force)
+```
 
 Normal contact force only happen if 2 objects in direct contact
 
