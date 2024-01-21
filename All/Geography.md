@@ -37,7 +37,8 @@ Natural {
 
 Human {
   Sea level rise
-  Increase in air temperature }
+  Increase in air temperature
+  Melting ice sheets }
 ```
 
 ### Tropical Cyclones
