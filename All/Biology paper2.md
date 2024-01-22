@@ -2,7 +2,7 @@
 
 ## Nervous vs Endocrine System
 
-### Nervous system (CNS)
+### Nervous system
 ```
 Triggers rapid response.
 Uses electrical signals that are carried by neurones.
