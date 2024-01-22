@@ -2,7 +2,7 @@
 
 ## Q1
 
-Just 4 obvious statements nothing to wild or next level.
+Just 4 obvious statements nothing too wild or next level.
 
 ## Q2
 
@@ -10,11 +10,11 @@ ONLY language analysis of a portion.
 
 ## Q3
 
-ONLY structural analysis of the whole extract.
+Structural analysis of the whole extract.
 
 ## Q4
 
-Agree with the statement. Give evidence for your likings.
+Agree with the statement (usually partially). Give evidence for your likings.
 
 ## Q5
 
@@ -26,7 +26,7 @@ Descriptive is easiest to get marks on. Narrative is usually more confidently wr
 
 # English Language Paper 2
 
-Apparently harder than paper 1 :(
+Apparently harder than paper 1 😭
 
 ## Q1
 
@@ -59,6 +59,16 @@ Letter
 ```
 
 Article
+```
+
+```
+
+Report
+```
+
+```
+
+Guide
 ```
 
 ```
