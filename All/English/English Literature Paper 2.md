@@ -12,7 +12,58 @@ profit in war.
 
 ### Characters
 
+#### Arthur (Mr Birling)
+```
+
+```
+
+#### Sybil (Mrs Birling)
+```
+
+```
+
+#### Gerald
+```
+
+```
+
+#### Sheila
+```
+
+```
+
+#### Eric
+```
+
+```
+
+#### Goole
+```
+
+```
+
 ### Themes
+
+#### Social Responsibility
+```
+
+```
+
+#### Age
+```
+
+```
+
+#### Gender
+```
+
+```
+
+#### Class
+```
+
+```
+
 
 ## Section B: Power and conflict poetry
 
