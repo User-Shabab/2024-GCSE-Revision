@@ -347,4 +347,44 @@ He intends to change the attitude of his readers towards the pay they give to th
 
 ### Characters
 
+#### Scrooge
+```
+
+```
+
+#### Them Ghosts
+```
+
+```
+
+#### Bob Cratchit
+```
+
+```
+
+#### Tiny Tim
+```
+
+```
+
+#### Fred
+```
+
+```
+
 ### Themes
+
+#### Christmas
+```
+
+```
+
+#### Redemption
+```
+
+```
+
+#### Social Injustice
+```
+
+```
