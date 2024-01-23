@@ -73,9 +73,9 @@ Immaculate: Perfectly clean, neat, or tidy; flawless.
 Idyllic: Extremely happy, peaceful, or picturesque; like an idealized place.
 Flawless: Without any imperfections or defects; perfect.
 Harmonious: Forming a harmonious and consistent whole; balanced.
+Halcyon: Denoting a period of time in the past that was idyllically happy and peaceful.
 Exultant: Triumphantly happy; jubilant and ecstatic.
 Breathtaking: Astonishing or awe-inspiring in quality; taking one's breath away.
-Paradisiacal: Resembling paradise; blissful and heavenly.
 Euphoric: Intensely happy and confident; elated.
 ```
 
@@ -83,12 +83,12 @@ Euphoric: Intensely happy and confident; elated.
 ```
 Picturesque: Visually attractive; like a picture.
 Tranquil: Calm and serene; free from disturbance.
+Paradisiacal: Resembling paradise; blissful and heavenly.
 Idyllic: Extremely happy, peaceful, or picturesque; like an idealized place.
 Sublime: Of such excellence, grandeur, or beauty as to inspire great admiration.
 Majestic: Having grandeur and dignity; impressive in scale.
 Harmonious: Forming a harmonious and consistent whole; balanced.
 Verdant: Green with grass or other rich vegetation.
-Halcyon: Denoting a period of time in the past that was idyllically happy and peaceful.
 Balmy: Pleasantly warm; soothing and mild.
 Enchanting: Delightfully charming or attractive; captivating.
 Exultant: Triumphantly happy; jubilant and ecstatic.
