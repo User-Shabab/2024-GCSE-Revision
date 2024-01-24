@@ -1,5 +1,9 @@
 # Paper 3
 
+## People and the Biosphere
+
+## Forests under threat
+
 ### Biome comparisons
 ```
 Taiga = cold and dry
@@ -50,3 +54,26 @@ biodiversity is low as plants find
 it difficult to grow in harsh
 conditions (1).
 ```
+
+## Consuming energy resources
+
+### Energy resources
+```
+Non-Renewable:
+Coal
+Oil
+Gas
+
+Renewable:
+Solar
+Wind
+HEP
+
+Recyclable:
+Nuclear
+Biofuels
+```
+
+### Case study (fracking): Alberta, Canada
+
+## 16 MARKERS
