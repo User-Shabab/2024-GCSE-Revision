@@ -99,11 +99,27 @@ neuroscientists have been able to link particular regions of the brain to partic
 #### Retina
 ```
 Packed with receptor cells, which are sensitive to both the brightness (light intensity) and the colour of light
+
+The cone cells are sensitive to color of light so show us color
+The rod cells are more sensitive to light but only allow to see black n white
+
+There is fovea, special spot on retina full of cone cells
 ```
 
 #### Iris
 ```
 Controls pupil diameter and the quantity of light reaching the retina
+
+Iris reflex:
+Making SMALLER PUPIL in HIGH LIGHT conditions - CONSTRICTED (LIGHT++)
+Making BIGGER PUPIL in LOW LIGHT conditions - DILATED (DARK++)
+
+Iris has 2 muscles around it
+First layer be CIRCULAR MUSCLES
+Outer part be RADIAL MUSCLES
+
+For SMALLER PUPIL, CIRCULAR MUSCLE contract, RADIAL MUSCLES relax (LIGHT++)
+For BIGGER PUPIL, RADIAL MUSCLE contract, CIRCULAR MUSCLES relax (DARK++)
 ```
 
 #### Pupil
@@ -134,6 +150,37 @@ The white of the eye; the opaque protective outer layer
 #### Cornea
 ```
 The transparent frontal portion of the eye responsible for refracting light
+```
+
+### Accommodation
+
+A REFLEX THAT CHANGES THE REFRACTIVE POWER OF THE LENS
+
+```
+If (object.close++) {
+  CiliaryMuscles.contract(in, towards lens)
+  SuspensoryLigaments.slacken(be loose)
+  Hence lens == fatter
+  To refract.light ++
+}
+
+If (object.far++) {
+  CiliaryMuscles.relax(out, from lens)
+  SuspensoryLigaments.tighten(be taut)
+  Hence lens == thinner
+  To refract.light --
+}
+```
+
+### Conditions
+```
+Hyperopia//Long-sighted:
+No refract enough so can't see close
+Fix w/ CONVEX lens
+
+Myopia//Short-sighted:
+Refract too much so can't see far
+Fix w/ CONCAVE lens
 ```
 
 ## Controlling Body Temperature
