@@ -74,6 +74,14 @@ The attack on capitalism also equates the motive with the desire to treat men as
 
 
 
+### Storm on the Island - SEAMUS HEANEY
+
+
+
+### Exposure - WILFRED OWEN
+
+
+
 ### Extract from, The Prelude - WILLIAM WORDSWORTH
 
 
@@ -83,14 +91,6 @@ The attack on capitalism also equates the motive with the desire to treat men as
 
 
 ### The Charge of the Light Brigade - ALFRED TENNYSON
-
-
-
-### Exposure - WILFRED OWEN
-
-
-
-### Storm on the Island - SEAMUS HEANEY
 
 
 
@@ -110,7 +110,7 @@ The attack on capitalism also equates the motive with the desire to treat men as
 
 
 
-### Tissue - IMTIAZ DHARKER
+### Kamikaze - BEATRICE GARLAND
 
 
 
@@ -122,7 +122,7 @@ The attack on capitalism also equates the motive with the desire to treat men as
 
 
 
-### Kamikaze - BEATRICE GARLAND
+### Tissue - IMTIAZ DHARKER
 
 
 
