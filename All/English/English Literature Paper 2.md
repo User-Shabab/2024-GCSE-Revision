@@ -66,6 +66,26 @@ The attack on capitalism also equates the motive with the desire to treat men as
 
 ## Section B: Power and conflict poetry
 
+### War Photographer - CAROL DUFFY
+
+
+
+### Remains - SIMON ARMITAGE
+
+
+
+### The Charge of the Light Brigade - ALFRED TENNYSON
+
+
+
+### Bayonet Charge - TED HUGHES
+
+
+
+### Exposure - WILFRED OWEN
+
+
+
 ### Ozymandias - PERCY SHELLEY
 
 
@@ -78,10 +98,6 @@ The attack on capitalism also equates the motive with the desire to treat men as
 
 
 
-### Exposure - WILFRED OWEN
-
-
-
 ### Extract from, The Prelude - WILLIAM WORDSWORTH
 
 
@@ -90,23 +106,7 @@ The attack on capitalism also equates the motive with the desire to treat men as
 
 
 
-### The Charge of the Light Brigade - ALFRED TENNYSON
-
-
-
-### Bayonet Charge - TED HUGHES
-
-
-
-### Remains - SIMON ARMITAGE
-
-
-
 ### Poppies - JANE WEIR
-
-
-
-### War Photographer - CAROL DUFFY
 
 
 
