@@ -86,26 +86,6 @@ The attack on capitalism also equates the motive with the desire to treat men as
 
 
 
-### Ozymandias - PERCY SHELLEY
-
-
-
-### London - WILLIAM BLAKE
-
-
-
-### Storm on the Island - SEAMUS HEANEY
-
-
-
-### Extract from, The Prelude - WILLIAM WORDSWORTH
-
-
-
-### My Last Duchess - ROBERT BROWNING
-
-
-
 ### Poppies - JANE WEIR
 
 
@@ -114,7 +94,27 @@ The attack on capitalism also equates the motive with the desire to treat men as
 
 
 
+### Storm on the Island - SEAMUS HEANEY
+
+
+
+### London - WILLIAM BLAKE
+
+
+
+### Extract from, The Prelude - WILLIAM WORDSWORTH
+
+
+
 ### The Emigree - CAROL RUMENS
+
+
+
+### Ozymandias - PERCY SHELLEY
+
+
+
+### Tissue - IMTIAZ DHARKER
 
 
 
@@ -122,7 +122,7 @@ The attack on capitalism also equates the motive with the desire to treat men as
 
 
 
-### Tissue - IMTIAZ DHARKER
+### My Last Duchess - ROBERT BROWNING
 
 
 
