@@ -70,57 +70,77 @@ The attack on capitalism also equates the motive with the desire to treat men as
 
 #### Quotes
 ```
-"spools of suffering set out in ordered rows"
+"spools of suffering set out in ordered rows" - sibilance and metaphor
 
-"tears between the bath and pre-lunch beers"
+"tears between the bath and pre-lunch beers" - internal rhyme
 
-"A hundred agonies in black-and-white"
+"A hundred agonies in black-and-white" - colour imagery
 ```
 
 ### Remains - SIMON ARMITAGE
 
 #### Quotes
 ```
-"one of them legs it up the road"
+"one of them legs it up the road" - colloquial language
 
-"evrey round as it rips through his life"
+"evrey round as it rips through his life" - alliteration 'r' sound
 
-"his bloody life in my bloody hands"
+"his bloody life in my bloody hands" - metaphor
 ```
 
 ### The Charge of the Light Brigade - ALFRED TENNYSON
 
 #### Quotes
 ```
+"Into the jaws of Death, into the mouth of Hell" - metaphor
 
+"Cannon to the right of them...behind them"  - Repitition Rhythm
+
+"Reel'd from the sabre-stroke, Shatter'd and sunder'd" - Sibilance
 ```
 
 ### Bayonet Charge - TED HUGHES
 
 #### Quotes
 ```
+"Bullets smacking the belly out of the air...smashed arm" - Metaphor and simile
 
+"In what cold clockwork of the stars and the nations...second" - Rhetorical q. and metaphor
+
+"Then the shot-slashed furrows...eyes standing out" - Sibilance, imagery, enjambment
 ```
 
 ### Exposure - WILFRED OWEN
 
 #### Quotes
 ```
+"Our brains ache, in the merciless iced east winds that knive us" - Personification
 
+"Sudden successive flights of bullets streak...black with snow" - Sibilance
+
+"The burying-party, picks and shovels...pause over half-known faces" - Effective language
 ```
 
 ### Poppies - JANE WEIR
 
 #### Quotes
 ```
+"I wanted to graze my nose...play at being Eskimos" - Past tense of 'wanted'
 
+"After you'd gone I went into your bedroom...song bird from its cage" - Metaphor//Symbolism
+
+"I traced the inscriptions on the war memorial, leaned...like a wishbone" - Simile
 ```
 
 ### Kamikaze - BEATRICE GARLAND
 
 #### Quotes
 ```
+"green-blue translucent" & "pearl-grey" - Sensory imagery and semantic field of color
 
+"Her father embarked at sunrise" - 'embarked' has double meaning
+
+"till gradually we too learned...he had never returned" - enjambment
 ```
 
 ### Storm on the Island - SEAMUS HEANEY
