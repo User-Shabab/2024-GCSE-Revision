@@ -376,7 +376,19 @@ He intends to change the attitude of his readers towards the pay they give to th
 
 #### Christmas
 ```
+In A Christmas Carol Dickens shows the theme of Christmas through:
 
+the title and structure (staves used ! chapters)
+
+The five staves reflect the structure of a carol and link the story to the joy of singing.
+
+Scrooge's nephew, Fred, as someone who embodies the spirit of Christmas (cheerful approach to Christmas)
+
+ able to abandon himself to childish pleasures at Christmas, enjoys the company of his friends.
+
+Tiny Tim as someone who is generous and kind (importance of family and love)
+
+Tiny Tim is well-loved by family as we see in generosity that his siblings show him here.
 ```
 
 #### Redemption
