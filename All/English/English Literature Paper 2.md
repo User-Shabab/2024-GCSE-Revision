@@ -45,22 +45,39 @@ The attack on capitalism also equates the motive with the desire to treat men as
 
 #### Social Responsibility
 ```
+In An Inspector Calls, Priestley explores social responsibility through:
 
+the treatment of Eva Smith
+how each character does or doesn’t take responsibility for their behaviour
+the Inspector's lessons
 ```
 
 #### Age
 ```
+In An Inspector Calls, Priestley explores the theme of age through:
 
+Sheila and Eric's response to Eva's death
+Mr and Mrs Birling's response to Eva's death
+how the older characters perceive the younger ones
 ```
 
 #### Gender
 ```
+In An Inspector Calls Priestley explores the theme of gender through:
 
+how Mr Birling and Gerald Croft view women
+how Mrs Birling treats Eva Smith
+how Eva Smith is portrayed as independent and outspoken before her death
 ```
 
 #### Class
 ```
+In An Inspector Calls, Priestley explore theme of class through Eva Smith's fx from Birlings & Gerald:
 
+when she is a factory worker (Mr Birling's opinion of the working class.)
+when she works in a shop
+when she is effectively homeless (When Gerald tells the Birlings about the behaviour of Joe Meggarty.)
+when she is potentially a single mother (When Sybil is discussing moment when Eva approached her charity.)
 ```
 
 
