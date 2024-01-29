@@ -199,5 +199,5 @@ Used for weather and recon.
 ## Red Shift & Big Bang Theory
 ```
 Red shift - when wavelength of light from distant galaxies be stretched coz galaxies moving away from us
-
+Doppler effect - apparent change in freq.//wavelength of a wave due to relative motion of source & observer
 ```
