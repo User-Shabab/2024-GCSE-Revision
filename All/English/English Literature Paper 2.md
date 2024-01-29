@@ -6,7 +6,24 @@ In AIC, Priestly wants to chane the attitude of the audience towards social resp
 the upper classes to take responsibility for the workers and the poor and hence produce a fairer society.
 He also focusses on female victims like Eva and Sheila to show that capitalism is also sexist and this
 patriarchal society needs to change to respect women.
-The attack on capitalism also equates the motive with the desire to treat men as goods in order to earn profit in war.
+Attack on capitalism also equates the motive with desire to treat men as goods in order to earn profit in war.
+```
+
+### Quotes
+
+```
+millions and millions and millions of Eva Smiths and John Smiths
+
+Asyndetic list with repitition shows the huge number of working class members
+being exploited by the upper classes
+her name plural shows she represents those being exploited
+```
+
+```
+We are members of one body
+
+Christian imagery used to present that everyone is equal in eyes of God
+Appeal to his widely Christian audience too so that everyone could take heed of responsibility
 ```
 
 ### Characters
