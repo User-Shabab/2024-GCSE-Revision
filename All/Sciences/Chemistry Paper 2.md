@@ -1,11 +1,25 @@
 # Topic 6 - The Rate and Extent of Chemical Change
 
+## Terms
+```
+Collision theory=chemical reactions occur only when reacting particles collide with each other & with sufficient E.
+Activation energy= minimum amount of energy that particles must have to react
+
+```
+
 ## Calculate rate of reaciton
 ```
-Mean rate of reaction = Quantity of product formed ÷ Time taken
+Mean rate of reaction = Quantity of product//reactant formed ÷ Time taken
 ```
 
-
+## Factors.affect(rates of chemical reactions)
+```
+concentrations of reactants in solution
+pressure of reacting gases
+surface area of solid reactants
+temperature
+presence of catalysts
+```
 
 # Topic 7 - Organic Chemistry
 
