@@ -294,6 +294,16 @@ In type 2 diabetes, sufferers can still produce insulin, but their body no longe
 Because the body no longer responds to insulin, injecting insulin will not help.
 Instead, sufferers must manage their diet and exercise regularly to keep blood glucose levels steady.
 
+#### Insulin & Glucagon
+```
+High blood gluc. level
+So pancreas secretes insulin
+Then glucose taken into cells and stored as glycogen in liver
+So glucose go low level
+So pancreas secretes glucagon
+Then glycogen converted back to gluc. in liver and released in blood
+```
+
 ## The Kidneys
 
 ### Controlling water balance
@@ -851,3 +861,5 @@ living organisms and fossil data for extinct organisms.
 ```
 
 # Topic 7 - Ecology
+
+## Decomposition
