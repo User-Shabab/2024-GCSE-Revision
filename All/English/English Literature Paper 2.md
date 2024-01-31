@@ -102,6 +102,9 @@ when she is potentially a single mother (When Sybil is discussing moment when Ev
 
 ### War Photographer - CAROL DUFFY
 
+- Remains
+- Bayonet Charge - present horrors of war but not that people neglect it
+
 #### Quotes
 ```
 "spools of suffering set out in ordered rows" - sibilance and metaphor
@@ -109,6 +112,10 @@ when she is potentially a single mother (When Sybil is discussing moment when Ev
 "tears between the bath and pre-lunch beers" - internal rhyme
 
 "A hundred agonies in black-and-white" - colour imagery
+
+The impossibility of presenting the true horrors of war//conflict
+Present true horrors of war
+People refusing to acknowledge reality
 ```
 
 ### Remains - SIMON ARMITAGE
