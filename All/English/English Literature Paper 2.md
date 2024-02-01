@@ -45,7 +45,20 @@ Appeal to his widely Christian audience too so that everyone could take heed of 
 
 #### Sheila
 ```
-
+materialistic - "I'll never let it out of my sight for an instant."
+childish and patronised - "mummy" and parents call her "child"
+inferior - "I think Miss Birling ought to be excused"
+Eric more immature than Sheila yet not treated same
+shows gender inequality at time
+how woman have inferior role in male dominated society
+dramatic shift in personality - "you fool - he knows"
+at the end, she is woman not governed by emotions but by logic
+presents audience should be like Sheila
+accepts responsibility
+contrast with parents - "they can't even take a joke" - criticising older gen.
+has matured since beginning - "Mother" and "Father"
+has taken role of inspector - "fire and blood and anguish" - repitition shows she has learnt
+Priestley wants people to challenge conventional way of thinking and question behaviours
 ```
 
 #### Eric
