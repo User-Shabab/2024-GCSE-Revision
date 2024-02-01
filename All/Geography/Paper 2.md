@@ -236,3 +236,7 @@ straighter and shorter route.
 4. Deposition will occur in the shallower parts to cut off the original meander, leaving a horseshoe-shaped
 oxbow lake.
 ```
+
+## Case Studies
+
+### 
