@@ -1,3 +1,3 @@
-# Paper 3
+# Biomes
 
-## People and the Biosphere
+![Biomes distribution](https://bam.files.bbci.co.uk/bam/live/content/z3b382p/small)
