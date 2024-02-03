@@ -26,6 +26,24 @@ Christian imagery used to present that everyone is equal in eyes of God
 Appeal to his widely Christian audience too so that everyone could take heed of responsibility
 ```
 
+### Beginning
+```
+Sheila is a pretty girl in her early twenties, very pleased with life and excited
+Eric...half shy, half assertive
+Sybil - a rather cold woman and her husband's social superior
+Arthur Birling is a heavy-looking, rather portentous man in his middle fifties
+...with fairly easy manners but rather provincial in his speech
+Gerald...easy well-bred young man-about-town
+```
+
+### Ending
+```
+Sheila is still quietly crying
+Mrs Birling has collapsed into a chair
+Eric is brooding desperately
+Mr Birling...then pours himself out a drink, which he hastily swallows
+```
+
 ### Characters
 
 #### Arthur (Mr Birling)
