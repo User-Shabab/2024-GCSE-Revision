@@ -68,4 +68,14 @@ Water
 Temperature
 ```
 
+## Using Quadrats to Estimate a Population Size
+```
+Divide the habitat up into a series of quadrat-sized cells.
+Randomly select a given number of cells, then go out into the habitat and place the quadrat in these positions.
+To evaluate the quadrat contents, either count the number of individual organisms of interest
+The samples from the quadrat are used to estimate the total population in a given area:
+
+population = number counted x (total survey area / area sampled)
+```
+
 ## Decomposition
