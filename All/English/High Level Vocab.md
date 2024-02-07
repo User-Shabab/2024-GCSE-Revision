@@ -6,6 +6,7 @@ Malevolent: Having or exhibiting ill will; wishing harm to others.
 Vindictive: Disposed to seek revenge; vengeful.
 Nefarious: Wicked, villainous, or heinously criminal.
 Odious: Extremely unpleasant; repulsive.
+Egocentric: Self-centered or self-absorbed
 Devious: Showing a skillful use of underhanded tactics; deceitful.
 Machiavellian: Cunning, scheming, and unscrupulous in advancing one's interests.
 Insidious: Proceeding in a gradual, subtle way with harmful effects.
