@@ -78,4 +78,23 @@ The samples from the quadrat are used to estimate the total population in a give
 population = number counted x (total survey area / area sampled)
 ```
 
+## The Carbon Cycle
+```
+Carbon is removed from the atmosphere by producers (e.g. algae) who use it in photosynthesis.
+By consuming plant matter, animals obtain carbon compounds.
+Carbon returned to atmosphere (as carbon dioxide) because of respiration that happen in plant & animal cells.
+When animals & plants die, decomposers return carbon locked in their bodies back to the atmosphere via decay.
+Combustion of fossil fuels is another source of carbon entry into the atmosphere.
+```
+
+## The Water Cycle
+```
+Water evaporates from the Earth’s surface, before rising up into the atmosphere.
+Once in the atmosphere, the water vapour cools and condenses into either rain or snow.
+This eventually returns to the Earth’s surface.
+The rain or snow will either become surface runoff (water flowing off land) or will travel
+through the earth as ground water.
+Plants take up water through their roots.
+```
+
 ## Decomposition
