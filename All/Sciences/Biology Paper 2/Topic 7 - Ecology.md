@@ -97,4 +97,30 @@ through the earth as ground water.
 Plants take up water through their roots.
 ```
 
+## Rate of decay
+```
+Moisture availability
+Oxygen availability
+Temperature
+```
+
+## Biogas generators
+```
+Anaerobic decay happens when the oxygen supply is insufficient (not enough),
+and results in the production of biogas, which is mainly methane.
+Biogas generators produce methane gas, which is used as a fuel.
+It can also be used to produce slurry which can also be used as a fertiliser.
+It is crucial that temperatures are maintained at a suitable level and that
+oxygen is not allowed to enter the site of fermentation.
+```
+
+## Practical - Temperature & Milk Decay
+```
+Use a water bath to heat all of the components to a given temperature.
+Mix the milk, sodium carbonate and Cresol red. The resulting solution should be purple.
+Add lipase to the solution and start timing.
+When the solution turns yellow, stop timing.
+Repeat using different temperatures.
+```
+
 ## Decomposition
